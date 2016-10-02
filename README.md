@@ -42,19 +42,20 @@ grammar_cjkRuby: true
 
 
 #### **开源项目**
- - [gavinkwoe][25] / weapp-ide-crack 微信小程序ide、破解、demo | [项目地址][26]
- - [xwartz][27] / wechat-app-demo 微信小程序demo | [项目地址][28]
- - [phodal][29] / weapp-quick 微信小程序示例代码 | [项目地址][30]
- - [gztchan][31] / wechat-mini-app 小程序版API | [项目地址][32]
+ - [gavinkwoe][25] / weapp-ide-crack 微信小程序 - ide、破解、demo | [项目地址][26]
+ - [xwartz][27] / wechat-app-demo 微信小程序 - demo | [项目地址][28]
+ - [phodal][29] / weapp-quick 微信小程序 - 示例代码 | [项目地址][30]
+ - [gztchan][31] / wechat-mini-app 微信小程序 - API | [项目地址][32]
+ - [windy][33] / weapp-cli 微信小程序 - 脚手架 | [项目地址][34]
  
-	[更多内容....][33]
+	[更多内容....][35]
 
 
 ----------
 
 
 #### **小程序大赛**
-[爱范儿 x SegmentFault · 未来小程序黑客马拉松大赛][34] 报名今天截止，感兴趣的赶快报名啦~
+[爱范儿 x SegmentFault · 未来小程序黑客马拉松大赛][36] 报名今天截止，感兴趣的赶快报名啦~
 
 
   [1]: https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
@@ -89,5 +90,7 @@ grammar_cjkRuby: true
   [30]: https://github.com/phodal/weapp-quick
   [31]: https://github.com/gztchan
   [32]: https://github.com/gztchan/wechat-mini-app
-  [33]: WeApp_OpenCode.md
-  [34]: https://segmentfault.com/e/1160000007033040
+  [33]: https://github.com/windy
+  [34]: https://github.com/windy/weapp-cli
+  [35]: WeApp_OpenCode.md
+  [36]: https://segmentfault.com/e/1160000007033040

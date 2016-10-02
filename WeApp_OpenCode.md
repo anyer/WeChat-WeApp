@@ -38,24 +38,25 @@ grammar_cjkRuby: true
    - [liuxuanqiang][49] / wechat-weapp-mall 微信小程序 - 移动端商城 | [项目地址][50]
    - [JamesonHuang][51] / WeApp-VR-Video 微信小程序 - VR视频资源推荐 | [项目地址][52]
  - 9.27
-   - [nicesu][53] / wechat-dribbble 微信小程序 - dribbble | [项目地址][54]
-   - [coolfishstudio][55] / wechat-webapp-cnode 微信小程序 - cnode |  [项目地址][56] | [学习文档][57]
-   - [Sioxas][58] / AppleMusic 微信小程序 - 仿Apple Music | [项目地址][59]
-   - [hayeah][60] / wxapp-Breakfast 微信小程序 - 小林早厨 | [项目地址][61]
-   - [StudyLifeTime][62] / Eater-APP 微信小程序 - 吃货App | [项目地址][63]
-   - [yagamis][64] / wxappblog 微信小程序 - 小波说雨燕blog | [项目地址][65]
+   - [windy][53] / weapp-cli 微信小程序 - 脚手架 | [项目地址][54]
+   - [nicesu][55] / wechat-dribbble 微信小程序 - dribbble | [项目地址][56]
+   - [coolfishstudio][57] / wechat-webapp-cnode 微信小程序 - cnode |  [项目地址][58] | [学习文档][59]
+   - [Sioxas][60] / AppleMusic 微信小程序 - 仿Apple Music | [项目地址][61]
+   - [hayeah][62] / wxapp-Breakfast 微信小程序 - 小林早厨 | [项目地址][63]
+   - [StudyLifeTime][64] / Eater-APP 微信小程序 - 吃货App | [项目地址][65]
+   - [yagamis][66] / wxappblog 微信小程序 - 小波说雨燕blog | [项目地址][67]
  - 9.28
-    - [charleyw][66] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][67]
-    - [jeffche][68] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][69]
-    - [ericzyh][70] / wechat-chat 微信小程序 - 聊天室 | [项目地址][71]
-    - [yll2wcf][72] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][73]
+    - [charleyw][68] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][69]
+    - [jeffche][70] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][71]
+    - [ericzyh][72] / wechat-chat 微信小程序 - 聊天室 | [项目地址][73]
+    - [yll2wcf][74] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][75]
  - 9.29
-   - [jiangzepeng][74] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][75]
+   - [jiangzepeng][76] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][77]
   
  - 9.30
 
  - 10.1
-   - [SuperKieran][76] / weapp-artand 微信小程序 - Artand | [项目地址][77]
+   - [SuperKieran][78] / weapp-artand 微信小程序 - Artand | [项目地址][79]
  
 
 
@@ -111,28 +112,30 @@ grammar_cjkRuby: true
   [50]: https://github.com/liuxuanqiang/wechat-weapp-mall
   [51]: https://github.com/JamesonHuang
   [52]: https://github.com/JamesonHuang/WeApp-VR-Video
-  [53]: https://github.com/nicesu
-  [54]: https://github.com/nicesu/wechat-dribbble
-  [55]: https://github.com/coolfishstudio
-  [56]: https://github.com/coolfishstudio/wechat-webapp-cnode
-  [57]: https://github.com/coolfishstudio/wechat-webapp-cnode/blob/master/study.md
-  [58]: https://github.com/Sioxas
-  [59]: https://github.com/Sioxas/AppleMusic
-  [60]: https://git.oschina.net/hayeah
-  [61]: https://git.oschina.net/hayeah/wxapp-Breakfast
-  [62]: https://github.com/StudyLifeTime
-  [63]: https://github.com/StudyLifeTime/Eater-APP
-  [64]: https://github.com/yagamis
-  [65]: https://github.com/yagamis/wxappblog
-  [66]: https://github.com/charleyw
-  [67]: https://github.com/charleyw/wechat-weapp-redux-todos
-  [68]: https://github.com/jeffche
-  [69]: https://github.com/jeffche/wechat-app-2048
-  [70]: https://github.com/ericzyh
-  [71]: https://github.com/ericzyh/wechat-chat
-  [72]: https://github.com/yll2wcf
-  [73]: https://github.com/yll2wcf/wechat-weapp-lifeTools
-  [74]: https://github.com/jiangzepeng
-  [75]: https://github.com/jiangzepeng/wechat-buycar
-  [76]: https://github.com/SuperKieran
-  [77]: https://github.com/SuperKieran/weapp-artand
+  [53]: https://github.com/windy
+  [54]: https://github.com/windy/weapp-cli
+  [55]: https://github.com/nicesu
+  [56]: https://github.com/nicesu/wechat-dribbble
+  [57]: https://github.com/coolfishstudio
+  [58]: https://github.com/coolfishstudio/wechat-webapp-cnode
+  [59]: https://github.com/coolfishstudio/wechat-webapp-cnode/blob/master/study.md
+  [60]: https://github.com/Sioxas
+  [61]: https://github.com/Sioxas/AppleMusic
+  [62]: https://git.oschina.net/hayeah
+  [63]: https://git.oschina.net/hayeah/wxapp-Breakfast
+  [64]: https://github.com/StudyLifeTime
+  [65]: https://github.com/StudyLifeTime/Eater-APP
+  [66]: https://github.com/yagamis
+  [67]: https://github.com/yagamis/wxappblog
+  [68]: https://github.com/charleyw
+  [69]: https://github.com/charleyw/wechat-weapp-redux-todos
+  [70]: https://github.com/jeffche
+  [71]: https://github.com/jeffche/wechat-app-2048
+  [72]: https://github.com/ericzyh
+  [73]: https://github.com/ericzyh/wechat-chat
+  [74]: https://github.com/yll2wcf
+  [75]: https://github.com/yll2wcf/wechat-weapp-lifeTools
+  [76]: https://github.com/jiangzepeng
+  [77]: https://github.com/jiangzepeng/wechat-buycar
+  [78]: https://github.com/SuperKieran
+  [79]: https://github.com/SuperKieran/weapp-artand
