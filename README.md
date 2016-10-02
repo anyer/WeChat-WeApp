@@ -54,7 +54,7 @@ grammar_cjkRuby: true
 
 
 #### **小程序大赛**
-[爱范儿 x SegmentFault · 未来小程序黑客马拉松大赛][34] 报名还有一天截止。。。
+[爱范儿 x SegmentFault · 未来小程序黑客马拉松大赛][34] 报名今天截止，感兴趣的赶快报名啦~
 
 
   [1]: https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
