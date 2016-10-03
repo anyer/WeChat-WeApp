@@ -45,19 +45,21 @@ grammar_cjkRuby: true
    - [hayeah][62] / wxapp-Breakfast 微信小程序 - 小林早厨 | [项目地址][63]
    - [StudyLifeTime][64] / Eater-APP 微信小程序 - 吃货App | [项目地址][65]
    - [yagamis][66] / wxappblog 微信小程序 - 小波说雨燕blog | [项目地址][67]
+   - [CrazyCodes][68] / WeiXin-SmallApps-Information 微信小程序 - 仿今日头条 | [项目地址][69]
  - 9.28
-    - [charleyw][68] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][69]
-    - [jeffche][70] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][71]
-    - [ericzyh][72] / wechat-chat 微信小程序 - 聊天室 | [项目地址][73]
-    - [yll2wcf][74] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][75]
+    - [charleyw][70] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][71]
+    - [jeffche][72] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][73]
+    - [ericzyh][74] / wechat-chat 微信小程序 - 聊天室 | [项目地址][75]
+    - [yll2wcf][76] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][77]
  - 9.29
-   - [jiangzepeng][76] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][77]
-  
- - 9.30
-
+   - [jiangzepeng][78] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][79]
+   - [aisin][80] / WechatApp-TodoList 微信小程序 - 任务清单 | [项目地址][81]
  - 10.1
-   - [SuperKieran][78] / weapp-artand 微信小程序 - Artand | [项目地址][79]
- 
+   - [SuperKieran][82] / weapp-artand 微信小程序 - Artand | [项目地址][83]
+ - 10.2
+   - [dunizb][84] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][85]
+ - 10.3
+   - [David-Guo][86] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][87]
 
 
   [1]: https://github.com/gavinkwoe
@@ -127,15 +129,23 @@ grammar_cjkRuby: true
   [65]: https://github.com/StudyLifeTime/Eater-APP
   [66]: https://github.com/yagamis
   [67]: https://github.com/yagamis/wxappblog
-  [68]: https://github.com/charleyw
-  [69]: https://github.com/charleyw/wechat-weapp-redux-todos
-  [70]: https://github.com/jeffche
-  [71]: https://github.com/jeffche/wechat-app-2048
-  [72]: https://github.com/ericzyh
-  [73]: https://github.com/ericzyh/wechat-chat
-  [74]: https://github.com/yll2wcf
-  [75]: https://github.com/yll2wcf/wechat-weapp-lifeTools
-  [76]: https://github.com/jiangzepeng
-  [77]: https://github.com/jiangzepeng/wechat-buycar
-  [78]: https://github.com/SuperKieran
-  [79]: https://github.com/SuperKieran/weapp-artand
+  [68]: https://github.com/CrazyCodes
+  [69]: https://github.com/CrazyCodes/WeiXin-SmallApps-Information
+  [70]: https://github.com/charleyw
+  [71]: https://github.com/charleyw/wechat-weapp-redux-todos
+  [72]: https://github.com/jeffche
+  [73]: https://github.com/jeffche/wechat-app-2048
+  [74]: https://github.com/ericzyh
+  [75]: https://github.com/ericzyh/wechat-chat
+  [76]: https://github.com/yll2wcf
+  [77]: https://github.com/yll2wcf/wechat-weapp-lifeTools
+  [78]: https://github.com/jiangzepeng
+  [79]: https://github.com/jiangzepeng/wechat-buycar
+  [80]: https://github.com/aisin
+  [81]: https://github.com/aisin/WechatApp-TodoList
+  [82]: https://github.com/SuperKieran
+  [83]: https://github.com/SuperKieran/weapp-artand
+  [84]: https://github.com/dunizb
+  [85]: https://github.com/dunizb/wxapp-movie
+  [86]: https://github.com/David-Guo
+  [87]: https://github.com/David-Guo/weapp-douban-movie
