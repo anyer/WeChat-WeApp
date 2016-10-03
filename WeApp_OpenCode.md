@@ -46,20 +46,26 @@ grammar_cjkRuby: true
    - [StudyLifeTime][64] / Eater-APP 微信小程序 - 吃货App | [项目地址][65]
    - [yagamis][66] / wxappblog 微信小程序 - 小波说雨燕blog | [项目地址][67]
    - [CrazyCodes][68] / WeiXin-SmallApps-Information 微信小程序 - 仿今日头条 | [项目地址][69]
+   - [eyasliu][70] / wechat-app-music 微信小程序 - 音乐播放器 | [项目地址][71]
  - 9.28
-    - [charleyw][70] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][71]
-    - [jeffche][72] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][73]
-    - [ericzyh][74] / wechat-chat 微信小程序 - 聊天室 | [项目地址][75]
-    - [yll2wcf][76] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][77]
+    - [charleyw][72] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][73]
+    - [jeffche][74] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][75]
+    - [ericzyh][76] / wechat-chat 微信小程序 - 聊天室 | [项目地址][77]
+    - [yll2wcf][78] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][79]
+    - [stephenml][80] / wx-query 微信小程序 - 仿jQuery插件 | [项目地址][81]
+    - [Illvili][82] / wxDefer 微信小程序 - API增强 | [项目地址][83]
+    - [mkxiansheng][84] / Kitchenette  微信小程序 - 小厨房 | [项目地址][85]
  - 9.29
-   - [jiangzepeng][78] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][79]
-   - [aisin][80] / WechatApp-TodoList 微信小程序 - 任务清单 | [项目地址][81]
+   - [jiangzepeng][86] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][87]
+   - [aisin][88] / WechatApp-TodoList 微信小程序 - 任务清单 | [项目地址][89]
+ - 9.30
+   - [laohuangshu][90] / wmusic 微信小程序 - 简易情绪播放器 | [项目地址][91]
  - 10.1
-   - [SuperKieran][82] / weapp-artand 微信小程序 - Artand | [项目地址][83]
+   - [SuperKieran][92] / weapp-artand 微信小程序 - Artand | [项目地址][93]
  - 10.2
-   - [dunizb][84] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][85]
+   - [dunizb][94] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][95]
  - 10.3
-   - [David-Guo][86] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][87]
+   - [David-Guo][96] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][97]
 
 
   [1]: https://github.com/gavinkwoe
@@ -131,21 +137,31 @@ grammar_cjkRuby: true
   [67]: https://github.com/yagamis/wxappblog
   [68]: https://github.com/CrazyCodes
   [69]: https://github.com/CrazyCodes/WeiXin-SmallApps-Information
-  [70]: https://github.com/charleyw
-  [71]: https://github.com/charleyw/wechat-weapp-redux-todos
-  [72]: https://github.com/jeffche
-  [73]: https://github.com/jeffche/wechat-app-2048
-  [74]: https://github.com/ericzyh
-  [75]: https://github.com/ericzyh/wechat-chat
-  [76]: https://github.com/yll2wcf
-  [77]: https://github.com/yll2wcf/wechat-weapp-lifeTools
-  [78]: https://github.com/jiangzepeng
-  [79]: https://github.com/jiangzepeng/wechat-buycar
-  [80]: https://github.com/aisin
-  [81]: https://github.com/aisin/WechatApp-TodoList
-  [82]: https://github.com/SuperKieran
-  [83]: https://github.com/SuperKieran/weapp-artand
-  [84]: https://github.com/dunizb
-  [85]: https://github.com/dunizb/wxapp-movie
-  [86]: https://github.com/David-Guo
-  [87]: https://github.com/David-Guo/weapp-douban-movie
+  [70]: https://github.com/eyasliu
+  [71]: https://github.com/eyasliu/wechat-app-music
+  [72]: https://github.com/charleyw
+  [73]: https://github.com/charleyw/wechat-weapp-redux-todos
+  [74]: https://github.com/jeffche
+  [75]: https://github.com/jeffche/wechat-app-2048
+  [76]: https://github.com/ericzyh
+  [77]: https://github.com/ericzyh/wechat-chat
+  [78]: https://github.com/yll2wcf
+  [79]: https://github.com/yll2wcf/wechat-weapp-lifeTools
+  [80]: https://github.com/stephenml
+  [81]: https://github.com/stephenml/wx-query
+  [82]: https://github.com/Illvili
+  [83]: https://github.com/Illvili/wxDefer
+  [84]: https://github.com/mkxiansheng
+  [85]: https://github.com/mkxiansheng/Kitchenette
+  [86]: https://github.com/jiangzepeng
+  [87]: https://github.com/jiangzepeng/wechat-buycar
+  [88]: https://github.com/aisin
+  [89]: https://github.com/aisin/WechatApp-TodoList
+  [90]: https://git.oschina.net/laohuangshu
+  [91]: https://git.oschina.net/laohuangshu/wmusic
+  [92]: https://github.com/SuperKieran
+  [93]: https://github.com/SuperKieran/weapp-artand
+  [94]: https://github.com/dunizb
+  [95]: https://github.com/dunizb/wxapp-movie
+  [96]: https://github.com/David-Guo
+  [97]: https://github.com/David-Guo/weapp-douban-movie
