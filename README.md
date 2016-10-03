@@ -54,12 +54,12 @@ grammar_cjkRuby: true
 ----------
 
 #### **辅助开发工具/插件**  
-  - [微信公众平台小程序在线生成工具][36] - 生成配置文件以及文件目录
-  - [chemzqm][37] / wxapp.vim 提供微信小程序开发全方位支持的 vim 插件 | [工具地址][38]
- - [Abbotton][39] / weapp-snippet-for-sublime-text-2-3 为 sublime text 2&3 准备的微信应用号/小程序 snippet | [工具地址][40]
- - [wx-compile-key][41] 微信小程序全局编译快捷键（npmjs）
- - [maichong][42] / labrador 微信小程序模块化开发框架 |  [工具地址][43]
- - [maichong][44]  / labrador-cli 微信小程序模块化开发框架 | [工具地址][45]
+- [微信公众平台小程序在线生成工具][36] - 生成配置文件以及文件目录
+- [chemzqm][37] / wxapp.vim 提供微信小程序开发全方位支持的 vim 插件 | [工具地址][38]
+- [Abbotton][39] / weapp-snippet-for-sublime-text-2-3 为 sublime text 2&3 准备的微信应用号/小程序 snippet | [工具地址][40]
+- [wx-compile-key][41] 微信小程序全局编译快捷键（npmjs）
+- [maichong][42] / labrador 微信小程序模块化开发框架 |  [工具地址][43]
+- [maichong][44]  / labrador-cli 微信小程序模块化开发框架 | [工具地址][45]
 
 
   [1]: https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
