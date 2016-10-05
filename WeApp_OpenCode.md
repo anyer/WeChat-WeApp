@@ -6,6 +6,8 @@ grammar_cjkRuby: true
 
 ---
 
+#### **微信小程序开源项目** 
+
  - 9.22
    -  [gavinkwoe][1] / weapp-ide-crack 微信小程序 - ide、破解、demo | [项目地址][2]
    - [xwartz][3] / wechat-app-demo 微信小程序 - Demo | [项目地址][4]
@@ -47,25 +49,35 @@ grammar_cjkRuby: true
    - [yagamis][66] / wxappblog 微信小程序 - 小波说雨燕blog | [项目地址][67]
    - [CrazyCodes][68] / WeiXin-SmallApps-Information 微信小程序 - 仿今日头条 | [项目地址][69]
    - [eyasliu][70] / wechat-app-music 微信小程序 - 音乐播放器 | [项目地址][71]
+   - [Shaman05][72] / CNodeJs-WXAPP 微信小程序 - CNodeJs中文社区 | [项目地址][73]
+   - [winbin][74] / app_music 微信小程序 - 音乐搜索小程序 | [项目地址][75]
  - 9.28
-    - [charleyw][72] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][73]
-    - [jeffche][74] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][75]
-    - [ericzyh][76] / wechat-chat 微信小程序 - 聊天室 | [项目地址][77]
-    - [yll2wcf][78] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][79]
-    - [stephenml][80] / wx-query 微信小程序 - 仿jQuery插件 | [项目地址][81]
-    - [Illvili][82] / wxDefer 微信小程序 - API增强 | [项目地址][83]
-    - [mkxiansheng][84] / Kitchenette  微信小程序 - 小厨房 | [项目地址][85]
+    - [charleyw][76] / wechat-weapp-redux-todos 微信小程序 - 集成redux实现的Todo list | [项目地址][77]
+    - [jeffche][78] / wechat-app-2048 微信小程序 - 2048游戏 | [项目地址][79]
+    - [ericzyh][80] / wechat-chat 微信小程序 - 聊天室 | [项目地址][81]
+    - [yll2wcf][82] / wechat-weapp-lifeTools 微信小程序 - 生活工具集 | [项目地址][83]
+    - [stephenml][84] / wx-query 微信小程序 - 仿jQuery插件 | [项目地址][85]
+    - [Illvili][86] / wxDefer 微信小程序 - API增强 | [项目地址][87]
+    - [mkxiansheng][88] / Kitchenette  微信小程序 - 小厨房 | [项目地址][89]
  - 9.29
-   - [jiangzepeng][86] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][87]
-   - [aisin][88] / WechatApp-TodoList 微信小程序 - 任务清单 | [项目地址][89]
+   - [jiangzepeng][90] / wechat-weapp-buycar 微信小程序 - 大好商城 | [项目地址][91]
+   - [aisin][92] / WechatApp-TodoList 微信小程序 - 任务清单 | [项目地址][93]
+   - [fanweixiao][94] / wxapp-socket-io 微信小程序 - Socket IO 基于[CFETeam的项目][95]完善 IO | [项目地址][96]
  - 9.30
-   - [laohuangshu][90] / wmusic 微信小程序 - 简易情绪播放器 | [项目地址][91]
+   - [laohuangshu][97] / wmusic 微信小程序 - 简易情绪播放器 | [项目地址][98]
+   - [dunizb][99] / wxapp-sCalc 微信小程序 - 简易计算器 | [项目地址][100]
  - 10.1
-   - [SuperKieran][92] / weapp-artand 微信小程序 - Artand | [项目地址][93]
+   - [SuperKieran][101] / weapp-artand 微信小程序 - Artand | [项目地址][102]
  - 10.2
-   - [dunizb][94] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][95]
+   - [dunizb][103] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][104]
+   - [zhengxiaowai][105] / weapp-github 微信小程序 - github | [项目地址][106]
  - 10.3
-   - [David-Guo][96] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][97]
+   - [David-Guo][107] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][108]
+   - [anyer][109] / WeApp-News 微信小程序 - 新闻头条（聚合数据API） | [项目地址][110] 
+   - [zh-h][111] / student-information-system-wechat-applet 微信小程序 - 教务系统 | [项目地址][112]
+ - 10.4
+   - [bestony][113] / weapp-V2ex 微信小程序 - V2ex | [项目地址][114] | [V2API][115] | [V2ex 官网API][116]
+   - [lidong1665][117] / WeiXinProject 微信小程序 - 列表的上拉刷新和上拉加载 | [项目地址][118] 
 
 
   [1]: https://github.com/gavinkwoe
@@ -139,29 +151,50 @@ grammar_cjkRuby: true
   [69]: https://github.com/CrazyCodes/WeiXin-SmallApps-Information
   [70]: https://github.com/eyasliu
   [71]: https://github.com/eyasliu/wechat-app-music
-  [72]: https://github.com/charleyw
-  [73]: https://github.com/charleyw/wechat-weapp-redux-todos
-  [74]: https://github.com/jeffche
-  [75]: https://github.com/jeffche/wechat-app-2048
-  [76]: https://github.com/ericzyh
-  [77]: https://github.com/ericzyh/wechat-chat
-  [78]: https://github.com/yll2wcf
-  [79]: https://github.com/yll2wcf/wechat-weapp-lifeTools
-  [80]: https://github.com/stephenml
-  [81]: https://github.com/stephenml/wx-query
-  [82]: https://github.com/Illvili
-  [83]: https://github.com/Illvili/wxDefer
-  [84]: https://github.com/mkxiansheng
-  [85]: https://github.com/mkxiansheng/Kitchenette
-  [86]: https://github.com/jiangzepeng
-  [87]: https://github.com/jiangzepeng/wechat-buycar
-  [88]: https://github.com/aisin
-  [89]: https://github.com/aisin/WechatApp-TodoList
-  [90]: https://git.oschina.net/laohuangshu
-  [91]: https://git.oschina.net/laohuangshu/wmusic
-  [92]: https://github.com/SuperKieran
-  [93]: https://github.com/SuperKieran/weapp-artand
-  [94]: https://github.com/dunizb
-  [95]: https://github.com/dunizb/wxapp-movie
-  [96]: https://github.com/David-Guo
-  [97]: https://github.com/David-Guo/weapp-douban-movie
+  [72]: https://github.com/Shaman05
+  [73]: https://github.com/Shaman05/CNodeJs-WXAPP
+  [74]: https://github.com/winbin
+  [75]: https://github.com/winbin/app_music
+  [76]: https://github.com/charleyw
+  [77]: https://github.com/charleyw/wechat-weapp-redux-todos
+  [78]: https://github.com/jeffche
+  [79]: https://github.com/jeffche/wechat-app-2048
+  [80]: https://github.com/ericzyh
+  [81]: https://github.com/ericzyh/wechat-chat
+  [82]: https://github.com/yll2wcf
+  [83]: https://github.com/yll2wcf/wechat-weapp-lifeTools
+  [84]: https://github.com/stephenml
+  [85]: https://github.com/stephenml/wx-query
+  [86]: https://github.com/Illvili
+  [87]: https://github.com/Illvili/wxDefer
+  [88]: https://github.com/mkxiansheng
+  [89]: https://github.com/mkxiansheng/Kitchenette
+  [90]: https://github.com/jiangzepeng
+  [91]: https://github.com/jiangzepeng/wechat-buycar
+  [92]: https://github.com/aisin
+  [93]: https://github.com/aisin/WechatApp-TodoList
+  [94]: https://github.com/fanweixiao
+  [95]: https://github.com/CFETeam/weapp-demo-websocket
+  [96]: https://github.com/fanweixiao/wxapp-socket-io
+  [97]: https://git.oschina.net/laohuangshu
+  [98]: https://git.oschina.net/laohuangshu/wmusic
+  [99]: https://github.com/dunizb
+  [100]: https://github.com/dunizb/wxapp-sCalc
+  [101]: https://github.com/SuperKieran
+  [102]: https://github.com/SuperKieran/weapp-artand
+  [103]: https://github.com/dunizb
+  [104]: https://github.com/dunizb/wxapp-movie
+  [105]: https://github.com/zhengxiaowai
+  [106]: https://github.com/zhengxiaowai/weapp-github
+  [107]: https://github.com/David-Guo
+  [108]: https://github.com/David-Guo/weapp-douban-movie
+  [109]: https://github.com/anyer
+  [110]: https://github.com/anyer/WeApp-News
+  [111]: https://github.com/zh-h
+  [112]: https://github.com/zh-h/student-information-system-wechat-applet
+  [113]: https://github.com/bestony
+  [114]: https://github.com/bestony/weapp-V2ex
+  [115]: https://github.com/bestony/V2API
+  [116]: https://www.v2ex.com/p/7v9TEc53
+  [117]: https://github.com/lidong1665
+  [118]: https://github.com/lidong1665/WeiXinProject
