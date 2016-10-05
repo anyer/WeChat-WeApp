@@ -1,138 +1,72 @@
 ---
-
-title: 微信小程序资源整理
-tags: 小程序,资源,教程
+title: 微信小程序站点API整理
+tags: API,微信,小程序,数据接口平台
 grammar_cjkRuby: true
 
 ---
 
-
-微信小程序相关的文档、教程、开源项目等资源的整理，以便于开发学习使用。 —— —— 收录仅作个人使用，涉及侵权行为及时联系： maple_6392@163.com
-
----------
-#### **开发文档**
-- 开发文档
-  - [微信公众平台 · 小程序文档][1] 
-  - [简易教程· 小程序][2]
-  - [简易教程· 小程序（非官方）][3] | [项目地址][4]
-  - [微信小程序设计指南][5]
-  - [微信小程序平台运营规范][6]
-  - [WeUI][7] 微信官方设计团队为微信Web开发量身设计基础样式库 | [项目地址][8] | [wiki][9]
-- 其他文档
-  - [腾讯云带你从零开始搭建具有云端能力的小程序系列][10] 
-    - 场景一：文件上传下载 | [小相册教程][11]  | [小相册源码][12]
-    - 场景二：WebSocket长连接应用 | [剪刀石头布教程][13] | [剪刀石头布源码][14]
-    - 场景三：会话管理应用 | [会话管理应用教程][15] | [会话管理应用源码][16]
-    - 场景四：视频应用场景 | [视频应用教程][17] | [视频应用源码][18]
-   - 起步软件 | [微信应用号「小程序」最全的Q&A列表][19]
-
+整理可以用于小程序开发的现有站点、数据接口平台的API~
+- **站点API**
+  - [V2ex][1] | [官网API][2] | bestony / [V2API][3]
+V2EX 是一个关于分享和探索的地方,干净简洁的技术类社区,同时还保留开源项目 
+  - 豆瓣 | [官网API][4]
+  提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
+  - [知乎][5] | 7sDream / [zhihu-oauth][6]
+一个真实的网络问答社区，帮助你寻找答案，分享知识。
+  -  [CNodeJs中文社区][7] | [官网API][8]
+CNode：Node.js专业中文社区
+  - [Ruby China][9] | [官网API][10]
 
 ----------
 
 
-#### **开发教程**
- - [diycode社区bokajun(博卡君) 系列][20]
- - [带你一起玩转微信应用号][21]
- - [小木学堂 - 全球首套微信小程序实战教程][22] | [微信小程序开发实战第二季][23]
- 
-	[更多内容....][24]
-
-
-----------
-
-
-#### **开源项目**
- - [gavinkwoe][25] / weapp-ide-crack 微信小程序 - ide、破解、demo | [项目地址][26]
- - [xwartz][27] / wechat-app-demo 微信小程序 - demo | [项目地址][28]
- - [phodal][29] / weapp-quick 微信小程序 - 示例代码 | [项目地址][30]
- - [gztchan][31] / wechat-mini-app 微信小程序 - API | [项目地址][32]
- - [windy][33] / weapp-cli 微信小程序 - 脚手架 | [项目地址][34]
- 
-	[更多内容....][35]
-
-
-----------
-
-#### **辅助开发工具/插件**  
-- [微信公众平台小程序在线生成工具][36] - 生成配置文件以及文件目录
-- [chemzqm][37] / wxapp.vim 提供微信小程序开发全方位支持的 vim 插件 | [工具地址][38]
-- [Abbotton][39] / weapp-snippet-for-sublime-text-2-3 为 sublime text 2&3 准备的微信应用号/小程序 snippet | [工具地址][40]
-- [johnwang77][41] / JWSnippets-For-VSCode 专为VSCode&Wing开发微信小程序编写的Snippet | [工具地址][42]
-- [wx-compile-key][43] 微信小程序全局编译快捷键（npmjs）
-- [maichong][44] / labrador 微信小程序模块化开发框架 |  [工具地址][45]
-- [maichong][46]  / labrador-cli 微信小程序模块化开发框架 | [工具地址][47]
-
+ - **数据接口平台**
+    - [Google APIs][11]
+   Google API 控制台，了解、使用、管理google的api。提供了100多种API，包括google map api、google cloud api、google apps api、google+ api、youtube api、AdSense api、Analytics API、Translate API、Web Fonts Developer API等。
+   - [百度 APIStore][12] 
+    API Store，为开发者提供最全面的API服务，汇集了国内外应用开发所需要的Android API/SDK，IOS SDK，涉及设计开发，运维管理，云服务，app推广，数据服务等多个范畴的服务，旨在向开发者提供最全面，最便捷的API搜索服务。"
+   - [聚合数据][13] 
+   提供30大类，100种以上基础数据API服务，国内最大的基础数据API服务提供商
+   - [阿凡达数据][14] 
+   国内专业的API数据接口云服务平台。优势：优质、稳定的API数据源；毫秒级调用速度；安全的数据调用环境。提供数据定制 | API数据商城 | 移动应用（APP)数据服务
+   - [极速数据][15] 
+   极速数据平台提供各类生活数据API，方便开发者快速简单的开发APP、软件及其他服务平台。公交、火车、违章、快递等数据应有尽有。
+   - [易源数据][16] 
+   易源是一个统一了通讯协议的API总线，互联网接口调用的入口，高度安全，超高性能，海量接口资源。一次接入，全部可调。
+   - [HaoService][17] 
+   API调用灵活方便，提供30大类，100种以上基础数据API服务，免费向开发者提供基站数据，移动联通基站,电信基站,国内最大的基础数据API服务提供商
+   - [APiX][18] 
+   APiX 是国内专业的云数据服务平台。平台通过一站式的数据管理、监控和销售服务，为企业和开发者提供提供辅助风控，预测营销和用户分析等数据与技术解决方案。
+   - [网吧数据][19] 
+   网吧数据是国内专业的API数据调用接口平台，接口丰富、便捷调用，采用xml、json等标准数据返回格式，包括：天气查询接口、快递查询接口、英汉互译接口、域名查询接口、身份证查询接口、手机归属地查询接口、笑话大全等.
+   - [天狗云][20]
+   狗农业信息服务平台，天狗健康信息个服务平 ，天狗医疗相信服务平台，天狗生活信息服务平台。天狗云以健康、医疗、生活、农业为数据中心提供全方位的数据服务，和开放数据接口，打造一个数据共享平台。
 
 ----------
 
-
-#### **站点API整理**
-
-- V2ex | V2EX 是一个关于分享和探索的地方,干净简洁的技术类社区,同时还保留开源项目 | [官网API][48] 
-	
-	[更多内容....][49]
+- **其他API**
+  - [图灵机器人WebAPI][21] 
+  
 
 
-----------
-
-
-#### **开发社区**
-- [微信小程序社区（cwechat）][50]
-- [微信小程序社区（xiaochengxu-wx）][51]
-- [微信小程序开发社区][52]
-- [小程序开发者社区][53]
-
-
-  [1]: https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
-  [2]: https://mp.weixin.qq.com/debug/wxadoc/dev/index.html
-  [3]: http://wxopen.notedown.cn/
-  [4]: https://github.com/Notedown-cn/wxopen
-  [5]: https://mp.weixin.qq.com/debug/wxadoc/design/index.html
-  [6]: http://wxopen.notedown.cn/product/
-  [7]: https://weui.io/
-  [8]: https://github.com/weui/weui
-  [9]: https://github.com/weui/weui/wiki
-  [10]: https://www.qcloud.com/act/event/yingyonghao.html
-  [11]: https://www.qcloud.com/doc/product/448/6404
-  [12]: https://github.com/CFETeam/weapp-demo-album
-  [13]: https://www.qcloud.com/doc/product/448/6405
-  [14]: https://github.com/CFETeam/weapp-demo-websocket
-  [15]: https://www.qcloud.com/doc/product/448/6424
-  [16]: https://github.com/CFETeam/weapp-demo-session
-  [17]: https://www.qcloud.com/doc/product/448/6425
-  [18]: https://github.com/CFETeam/weapp-demo-video
-  [19]: http://mp.weixin.qq.com/s?__biz=MzA3NTUzNzMyMA==&mid=2668969899&idx=1&sn=2ec739e4f9e1612e98685e3eb60c3922&scene=1&srcid=0923DCrcNIP78Aehx4PgE95G#rd
-  [20]: http://www.diycode.cc/bokajun/topics
-  [21]: https://i5ting.github.io/stuq-wxapp
-  [22]: http://www.xiaomuedu.com/article/326
-  [23]: http://www.xiaomuedu.com/article/328
-  [24]: WeApp_Tutorial.md
-  [25]: https://github.com/gavinkwoe
-  [26]: https://github.com/gavinkwoe/weapp-ide-crack
-  [27]: https://github.com/xwartz
-  [28]: https://github.com/xwartz/wechat-app-demo
-  [29]: https://github.com/phodal
-  [30]: https://github.com/phodal/weapp-quick
-  [31]: https://github.com/gztchan
-  [32]: https://github.com/gztchan/wechat-mini-app
-  [33]: https://github.com/windy
-  [34]: https://github.com/windy/weapp-cli
-  [35]: WeApp_OpenCode.md
-  [36]: https://weapptool.com/
-  [37]: https://github.com/chemzqm
-  [38]: https://github.com/chemzqm/wxapp.vim
-  [39]: https://github.com/Abbotton
-  [40]: https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3
-  [41]: https://github.com/johnwang77
-  [42]: https://github.com/johnwang77/JWSnippets-For-VSCode
-  [43]: https://www.npmjs.com/package/wx-compile-key
-  [44]: https://github.com/maichong
-  [45]: https://github.com/maichong/labrador
-  [46]: https://github.com/maichong
-  [47]: https://github.com/maichong/labrador-cli
-  [48]: https://www.v2ex.com/p/7v9TEc53
-  [49]: Site_API.md
-  [50]: http://www.cwechat.org/
-  [51]: http://www.xiaochengxu-wx.com/
-  [52]: http://xiao-app.com/
-  [53]: http://wxcss.net/
+  [1]: https://www.v2ex.com
+  [2]: https://www.v2ex.com/p/7v9TEc53
+  [3]: https://github.com/bestony/V2API
+  [4]: https://developers.douban.com/wiki/?title=guide
+  [5]: https://www.zhihu.com
+  [6]: https://github.com/7sDream/zhihu-oauth
+  [7]: https://cnodejs.org
+  [8]: https://cnodejs.org/api
+  [9]: https://ruby-china.org
+  [10]: https://ruby-china.org/api
+  [11]: https://console.developers.google.com/apis/library?hl=zh-CN
+  [12]: http://apistore.baidu.com/
+  [13]: https://www.juhe.cn/
+  [14]: http://www.avatardata.cn/
+  [15]: http://www.jisuapi.com/
+  [16]: https://www.showapi.com/
+  [17]: http://www.haoservice.com/
+  [18]: http://www.apix.cn/
+  [19]: http://www.zgw8.com/
+  [20]: http://www.tngou.net/
+  [21]: http://www.tuling123.com/help/h_cent_webapi.jhtml?nav=doc

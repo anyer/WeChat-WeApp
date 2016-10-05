@@ -62,11 +62,25 @@ grammar_cjkRuby: true
 - [maichong][44] / labrador 微信小程序模块化开发框架 |  [工具地址][45]
 - [maichong][46]  / labrador-cli 微信小程序模块化开发框架 | [工具地址][47]
 
+
+----------
+
+
 #### **站点API整理**
-小程序中，很多是基于现有站点API开发，下面对这些API进行汇总~
-	- V2ex | V2EX 是一个关于分享和探索的地方,干净简洁的技术类社区,同时还保留开源项目 | [官网API][48]
+
+- V2ex | V2EX 是一个关于分享和探索的地方,干净简洁的技术类社区,同时还保留开源项目 | [官网API][48] 
 	
-	更多内容....
+	[更多内容....][49]
+
+
+----------
+
+
+#### **开发社区**
+- [微信小程序社区（cwechat）][50]
+- [微信小程序社区（xiaochengxu-wx）][51]
+- [微信小程序开发社区][52]
+- [小程序开发者社区][53]
 
 
   [1]: https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
@@ -117,3 +131,8 @@ grammar_cjkRuby: true
   [46]: https://github.com/maichong
   [47]: https://github.com/maichong/labrador-cli
   [48]: https://www.v2ex.com/p/7v9TEc53
+  [49]: Site_API.md
+  [50]: http://www.cwechat.org/
+  [51]: http://www.xiaochengxu-wx.com/
+  [52]: http://xiao-app.com/
+  [53]: http://wxcss.net/
