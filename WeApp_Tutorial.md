@@ -40,7 +40,6 @@ grammar_cjkRuby: true
    - imooc / 手记 [Dunizb][38] | [剖析简易计算器带你入门微信小程序开发][39] | [项目源码][40]
  - 10.5
    - [头条科技][41] 庆恺的笔记 | [微信小程序ajax请求到自己的网站][42]
-
 ##### **系列**
  - [diycode社区bokajun(博卡君) 名片盒系列][43] 
    - [第一弹][44] 
@@ -64,29 +63,34 @@ grammar_cjkRuby: true
    - [微信小程序（应用号）开发新闻客户端的实战课程][68] | [项目源码][69]
    - [微信小程序（应用号）实战课程之记账软件开发][70] | [项目源码][71]
    - [微信小程序（应用号）零基础课程之加法计算器应用][72] | [项目源码][73]
- - [SwiftCafe][74] | 公众号：swift-cafe | 微信小程序开发进阶 
-   - [不需内测账号，带你体验微信小程序完整开发过程][75]
-   - [生命周期][76]
-   - [数据绑定与模块化][77]
+   - [使用类eclipse编辑器开发小程序，支持代码高亮与语法自动提示][74]
+   - [微信小程序绘图课程之饼图][75] | [项目源码][76]
+   - [微信小程序开发记账应用实战服务端之用户注册与登录-基于Yii2描述][77]
+   - [微信小程序倒计时组件][78] | [项目源码][79]
+   - [微信小程序TabBar底部栏的使用][80]
+ - [SwiftCafe][81] | 公众号：swift-cafe | 微信小程序开发进阶 
+   - [不需内测账号，带你体验微信小程序完整开发过程][82]
+   - [生命周期][83]
+   - [数据绑定与模块化][84]
 
 ---
 
 
 #### **视频**
-- [小木学堂 - 全球首套微信小程序实战教程（部分收费）][78]
-   - 第一季 | [百度云][79] | [腾讯视频][80] | [csdn学院][81]
-   - 第二季 | [csdn学院][82]
- - [michaely][83] | [全球首发，微信小程序开发实战视频教程发布（免费）][84]
+- [小木学堂 - 全球首套微信小程序实战教程（部分收费）][85]
+   - 第一季 | [百度云][86] | [腾讯视频][87] | [csdn学院][88]
+   - 第二季 | [csdn学院][89]
+ - [michaely][90] | [全球首发，微信小程序开发实战视频教程发布（免费）][91]
  - 51CTO学院
-   -  [李宁][85] | [你不知道的微信小程序视频课程（免费）][86] | [CSDN学院 （免费）][87]
-   - [小波说雨燕 张云波][88]  | [微信小程序（实战极速版）新手入门视频课程 （部分收费）][89]
+   -  [李宁][92] | [你不知道的微信小程序视频课程（免费）][93] | [CSDN学院 （免费）][94]
+   - [小波说雨燕 张云波][95]  | [微信小程序（实战极速版）新手入门视频课程 （部分收费）][96]
  - 极客学院 
-   - [腾讯云 - 贺嘉][90] | [如何一小时快速搭建一个应用号（免费）][91]
-   - 杨福海 | [『微信小程序』从基础到实战（收费）][92]
- - 慕课吧 [jayjun][93] | [微信小程序开发详解-入门篇 （免费）][94]
+   - [腾讯云 - 贺嘉][97] | [如何一小时快速搭建一个应用号（免费）][98]
+   - 杨福海 | [『微信小程序』从基础到实战（收费）][99]
+ - 慕课吧 [jayjun][100] | [微信小程序开发详解-入门篇 （免费）][101]
  - CSDN学院 
-   - [闫涛][95] | [微信小程序实战教程（免费）][96] 
-   - [陈耀武][97] | [微信小程序项目实战（收费）][98]
+   - [闫涛][102] | [微信小程序实战教程（免费）][103] 
+   - [陈耀武][104] | [微信小程序项目实战（收费）][105]
 
 
   [1]: http://blog.csdn.net/xiehuimx
@@ -162,28 +166,35 @@ grammar_cjkRuby: true
   [71]: http://git.oschina.net/dotton/finance
   [72]: https://my.oschina.net/u/1012086/blog/754193
   [73]: http://git.oschina.net/dotton/calc
-  [74]: http://swiftcafe.io
-  [75]: http://swiftcafe.io/2016/09/24/wx-app/
-  [76]: http://swiftcafe.io/2016/09/28/wx-app-2/
-  [77]: http://swiftcafe.io/2016/09/28/wx-app3/
-  [78]: http://www.xiaomuedu.com/article/326
-  [79]: http://pan.baidu.com/s/1jIIzIKI
-  [80]: http://v.qq.com/x/page/o03315osn5v.html
-  [81]: http://edu.csdn.net/course/detail/3011
-  [82]: http://edu.csdn.net/course/detail/3045
-  [83]: https://my.oschina.net/yangfuhai/home
-  [84]: https://my.oschina.net/yangfuhai/blog/751110
-  [85]: http://edu.51cto.com/lecturer/index/user_id-974126.html
-  [86]: http://edu.51cto.com/course/course_id-7241.html
-  [87]: http://edu.csdn.net/course/detail/3022
-  [88]: http://www.xiaoboswift.com/
-  [89]: http://edu.51cto.com/course/course_id-7242.html
-  [90]: http://my.jikexueyuan.com/hejia12/record/
-  [91]: http://www.jikexueyuan.com/course/3081.html
-  [92]: http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930
-  [93]: http://www.moocba.com/user/1
-  [94]: http://www.moocba.com/course/70
-  [95]: http://edu.csdn.net/lecturer/604
-  [96]: http://edu.csdn.net/course/detail/3009
-  [97]: http://edu.csdn.net/lecturer/790
-  [98]: http://edu.csdn.net/course/detail/3019
+  [74]: https://my.oschina.net/huangxiujie/blog/754293
+  [75]: https://my.oschina.net/huangxiujie/blog/754452
+  [76]: http://git.oschina.net/dotton/canvas
+  [77]: https://my.oschina.net/huangxiujie/blog/754653
+  [78]: https://my.oschina.net/huangxiujie/blog/754777
+  [79]: http://git.oschina.net/dotton/CountDown
+  [80]: https://my.oschina.net/huangxiujie/blog/754901
+  [81]: http://swiftcafe.io
+  [82]: http://swiftcafe.io/2016/09/24/wx-app/
+  [83]: http://swiftcafe.io/2016/09/28/wx-app-2/
+  [84]: http://swiftcafe.io/2016/09/28/wx-app3/
+  [85]: http://www.xiaomuedu.com/article/326
+  [86]: http://pan.baidu.com/s/1jIIzIKI
+  [87]: http://v.qq.com/x/page/o03315osn5v.html
+  [88]: http://edu.csdn.net/course/detail/3011
+  [89]: http://edu.csdn.net/course/detail/3045
+  [90]: https://my.oschina.net/yangfuhai/home
+  [91]: https://my.oschina.net/yangfuhai/blog/751110
+  [92]: http://edu.51cto.com/lecturer/index/user_id-974126.html
+  [93]: http://edu.51cto.com/course/course_id-7241.html
+  [94]: http://edu.csdn.net/course/detail/3022
+  [95]: http://www.xiaoboswift.com/
+  [96]: http://edu.51cto.com/course/course_id-7242.html
+  [97]: http://my.jikexueyuan.com/hejia12/record/
+  [98]: http://www.jikexueyuan.com/course/3081.html
+  [99]: http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930
+  [100]: http://www.moocba.com/user/1
+  [101]: http://www.moocba.com/course/70
+  [102]: http://edu.csdn.net/lecturer/604
+  [103]: http://edu.csdn.net/course/detail/3009
+  [104]: http://edu.csdn.net/lecturer/790
+  [105]: http://edu.csdn.net/course/detail/3019

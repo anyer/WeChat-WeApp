@@ -58,29 +58,30 @@ grammar_cjkRuby: true
 - [chemzqm][37] / wxapp.vim 提供微信小程序开发全方位支持的 vim 插件 | [工具地址][38]
 - [Abbotton][39] / weapp-snippet-for-sublime-text-2-3 为 sublime text 2&3 准备的微信应用号/小程序 snippet | [工具地址][40]
 - [johnwang77][41] / JWSnippets-For-VSCode 专为VSCode&Wing开发微信小程序编写的Snippet | [工具地址][42]
-- [wx-compile-key][43] 微信小程序全局编译快捷键（npmjs）
-- [maichong][44] / labrador 微信小程序模块化开发框架 |  [工具地址][45]
-- [maichong][46]  / labrador-cli 微信小程序模块化开发框架 | [工具地址][47]
-
+- [wx-compile-key][43] 微信小程序全局编译快捷键（npmjs） | [项目地址][44]
+- [maichong][45] / labrador 微信小程序模块化开发框架 |  [工具地址][46]
+- [maichong][47]  / labrador-cli 微信小程序模块化开发框架 | [工具地址][48]
+- [lypeer][49] / Matchmaker Intellij IDEA中自动完成绑定方法自动注入js插件 | [工具地址][50]
+- [stackOverMind][51] / WeApp-adapter 将微信小程序私有的api适配到标准w3c API | [工具地址][52]
 
 ----------
 
 
 #### **站点API整理**
 
-- V2ex | V2EX 是一个关于分享和探索的地方,干净简洁的技术类社区,同时还保留开源项目 | [官网API][48] 
+- V2ex | V2EX 是一个关于分享和探索的地方,干净简洁的技术类社区,同时还保留开源项目 | [官网API][53] 
 	
-	[更多内容....][49]
+	[更多内容....][54]
 
 
 ----------
 
 
 #### **开发社区**
-- [微信小程序社区（cwechat）][50]
-- [微信小程序社区（xiaochengxu-wx）][51]
-- [微信小程序开发社区][52]
-- [小程序开发者社区][53]
+- [微信小程序社区（cwechat）][55]
+- [微信小程序社区（xiaochengxu-wx）][56]
+- [微信小程序开发社区][57]
+- [小程序开发者社区][58]
 
 
   [1]: https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
@@ -126,13 +127,18 @@ grammar_cjkRuby: true
   [41]: https://github.com/johnwang77
   [42]: https://github.com/johnwang77/JWSnippets-For-VSCode
   [43]: https://www.npmjs.com/package/wx-compile-key
-  [44]: https://github.com/maichong
-  [45]: https://github.com/maichong/labrador
-  [46]: https://github.com/maichong
-  [47]: https://github.com/maichong/labrador-cli
-  [48]: https://www.v2ex.com/p/7v9TEc53
-  [49]: Site_API.md
-  [50]: http://www.cwechat.org/
-  [51]: http://www.xiaochengxu-wx.com/
-  [52]: http://xiao-app.com/
-  [53]: http://wxcss.net/
+  [44]: https://github.com/jf3096/wx-compile-key
+  [45]: https://github.com/maichong
+  [46]: https://github.com/maichong/labrador
+  [47]: https://github.com/maichong
+  [48]: https://github.com/maichong/labrador-cli
+  [49]: https://github.com/lypeer
+  [50]: https://github.com/lypeer/Matchmaker
+  [51]: https://github.com/stackOverMind
+  [52]: https://github.com/stackOverMind/WeApp-adapter
+  [53]: https://www.v2ex.com/p/7v9TEc53
+  [54]: Site_API.md
+  [55]: http://www.cwechat.org/
+  [56]: http://www.xiaochengxu-wx.com/
+  [57]: http://xiao-app.com/
+  [58]: http://wxcss.net/
