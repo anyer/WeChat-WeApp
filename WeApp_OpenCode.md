@@ -82,31 +82,32 @@ grammar_cjkRuby: true
    - [SuperKieran][126] / weapp-artand 微信小程序 - Artand | [项目地址][127]
    - [Jasenpan1987][128] / wxapp_clock 微信小程序 - 秒表和倒计时 | [项目地址][129]
    - [maczyt][130] / wxapp_ToDo 微信小程序 - ToDolist | [项目地址][131]
-   - [aisin][104] / WechatApp-ZhihuDaily 微信小程序 - 知乎日报 | [项目地址][132]
+   - [aisin][132] / WechatApp-ZhihuDaily 微信小程序 - 知乎日报 | [项目地址][133]
  - 10.2
-   - [dunizb][133] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][134]
-   - [zhengxiaowai][135] / weapp-github 微信小程序 - github | [项目地址][136]
-   - [cs1707][137] / wechat-app-zhihudaily 微信小程序 - 知乎日报 | [项目地址][138]
+   - [dunizb][134] / wxapp-movie 微信小程序 - 读你电影（豆瓣API） | [项目地址][135]
+   - [zhengxiaowai][136] / weapp-github 微信小程序 - github | [项目地址][137]
+   - [cs1707][138] / wechat-app-zhihudaily 微信小程序 - 知乎日报 | [项目地址][139]
  - 10.3
-   - [David-Guo][139] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][140]
-   - [anyer][141] / WeApp-News 微信小程序 - 新闻头条（聚合数据API） | [项目地址][142] 
-   - [zh-h][143] / student-information-system-wechat-applet 微信小程序 - 教务系统 | [项目地址][144]
-   - [oopsguy][145] / WechatSmallApps 微信小程序 - demo集合 | [项目地址][146]
+   - [David-Guo][140] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][141]
+   - [anyer][142] / WeApp-News 微信小程序 - 新闻头条（聚合数据API） | [项目地址][143] 
+   - [zh-h][144] / student-information-system-wechat-applet 微信小程序 - 教务系统 | [项目地址][145]
+   - [oopsguy][146] / WechatSmallApps 微信小程序 - demo集合 | [项目地址][147]
  - 10.4
-   - [bestony][147] / weapp-V2ex 微信小程序 - V2ex | [项目地址][148] | [V2API][149] | [V2ex 官网API][150]
-   - [lidong1665][151] / WeiXinProject 微信小程序 - 列表的上拉刷新和上拉加载 | [项目地址][152] 
-   - [harveyqing][153] / BearDiary 微信小程序 - 小熊の日记 | [项目地址][154]
-   - [zhangqifan][155] / torrid 微信小程序 - 简单天气应用 | [项目地址][156]
+   - [bestony][148] / weapp-V2ex 微信小程序 - V2ex | [项目地址][149] | [V2API][150] | [V2ex 官网API][151]
+   - [lidong1665][152] / WeiXinProject 微信小程序 - 列表的上拉刷新和上拉加载 | [项目地址][153] 
+   - [harveyqing][154] / BearDiary 微信小程序 - 小熊の日记 | [项目地址][155]
+   - [zhangqifan][156] / torrid 微信小程序 - 简单天气应用 | [项目地址][157]
  - 10.5
-   - [AmongOthers][157] / Werewolf 微信小程序 - 狼人杀游戏 | [项目地址][158]
-   - [GangsterHyj][159] / WeChatResume 微信小程序 - 个人简历 | [项目地址][160]
-   - [leijing7][161] / wx-mina-meteor 微信小程序 - 通过 DDP 协议和 Meteor 后端交换数据的简单例子 | [项目地址][162]
+   - [AmongOthers][158] / Werewolf 微信小程序 - 狼人杀游戏 | [项目地址][159]
+   - [GangsterHyj][160] / WeChatResume 微信小程序 - 个人简历 | [项目地址][161]
+   - [leijing7][162] / wx-mina-meteor 微信小程序 - 通过 DDP 协议和 Meteor 后端交换数据的简单例子 | [项目地址][163]
  - 10.6
-   - [sinchang][163] / weapp-news 微信小程序 - 新闻资讯 | [项目地址][164]
-   - [simsir-lin][165] / express-query-weapp 微信小程序 - 快递查询 | [项目地址][166]
-   - [qdsang][167] / weapp-niu-shop 微信小程序 - 小牛商城 | [项目地址][168]
-   - [sinchang][169] / weapp-weather 微信小程序 - 我的天气 | [项目地址][170]
-   - [WYseven][171] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][172]
+   - [sinchang][164] / weapp-news 微信小程序 - 新闻资讯 | [项目地址][165]
+   - [simsir-lin][166] / express-query-weapp 微信小程序 - 快递查询 | [项目地址][167]
+   - [qdsang][168] / weapp-niu-shop 微信小程序 - 小牛商城 | [项目地址][169]
+   - [sinchang][170] / weapp-weather 微信小程序 - 我的天气 | [项目地址][171]
+   - [WYseven][172] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][173]
+   - [pagnkelly][174] / wx-snake 微信小程序 - 贪吃蛇 | [项目地址][175]
 
 
   [1]: https://github.com/gavinkwoe
@@ -240,44 +241,47 @@ grammar_cjkRuby: true
   [129]: https://github.com/Jasenpan1987/wxapp_clock
   [130]: https://github.com/maczyt
   [131]: https://github.com/maczyt/wxapp_ToDo
-  [132]: https://github.com/aisin/WechatApp-ZhihuDaily
-  [133]: https://github.com/dunizb
-  [134]: https://github.com/dunizb/wxapp-movie
-  [135]: https://github.com/zhengxiaowai
-  [136]: https://github.com/zhengxiaowai/weapp-github
-  [137]: https://github.com/cs1707
-  [138]: https://github.com/cs1707/wechat-app-zhihudaily
-  [139]: https://github.com/David-Guo
-  [140]: https://github.com/David-Guo/weapp-douban-movie
-  [141]: https://github.com/anyer
-  [142]: https://github.com/anyer/WeApp-News
-  [143]: https://github.com/zh-h
-  [144]: https://github.com/zh-h/student-information-system-wechat-applet
-  [145]: https://github.com/oopsguy
-  [146]: https://github.com/oopsguy/WechatSmallApps
-  [147]: https://github.com/bestony
-  [148]: https://github.com/bestony/weapp-V2ex
-  [149]: https://github.com/bestony/V2API
-  [150]: https://www.v2ex.com/p/7v9TEc53
-  [151]: https://github.com/lidong1665
-  [152]: https://github.com/lidong1665/WeiXinProject
-  [153]: https://github.com/harveyqing
-  [154]: https://github.com/harveyqing/BearDiary
-  [155]: https://github.com/zhangqifan
-  [156]: https://github.com/zhangqifan/torrid
-  [157]: https://github.com/AmongOthers
-  [158]: https://github.com/AmongOthers/Werewolf
-  [159]: https://github.com/GangsterHyj
-  [160]: https://github.com/GangsterHyj/WeChatResume
-  [161]: https://github.com/leijing7
-  [162]: https://github.com/leijing7/wx-mina-meteor
-  [163]: https://github.com/sinchang
-  [164]: https://github.com/sinchang/weapp-news
-  [165]: https://github.com/simsir-lin
-  [166]: https://github.com/simsir-lin/express-query-weapp
-  [167]: https://github.com/qdsang
-  [168]: https://github.com/qdsang/weapp-niu-shop
-  [169]: https://github.com/sinchang
-  [170]: https://github.com/sinchang/weapp-weather
-  [171]: https://github.com/WYseven
-  [172]: https://github.com/WYseven/weapp-douban-movie
+  [132]: https://github.com/aisin
+  [133]: https://github.com/aisin/WechatApp-ZhihuDaily
+  [134]: https://github.com/dunizb
+  [135]: https://github.com/dunizb/wxapp-movie
+  [136]: https://github.com/zhengxiaowai
+  [137]: https://github.com/zhengxiaowai/weapp-github
+  [138]: https://github.com/cs1707
+  [139]: https://github.com/cs1707/wechat-app-zhihudaily
+  [140]: https://github.com/David-Guo
+  [141]: https://github.com/David-Guo/weapp-douban-movie
+  [142]: https://github.com/anyer
+  [143]: https://github.com/anyer/WeApp-News
+  [144]: https://github.com/zh-h
+  [145]: https://github.com/zh-h/student-information-system-wechat-applet
+  [146]: https://github.com/oopsguy
+  [147]: https://github.com/oopsguy/WechatSmallApps
+  [148]: https://github.com/bestony
+  [149]: https://github.com/bestony/weapp-V2ex
+  [150]: https://github.com/bestony/V2API
+  [151]: https://www.v2ex.com/p/7v9TEc53
+  [152]: https://github.com/lidong1665
+  [153]: https://github.com/lidong1665/WeiXinProject
+  [154]: https://github.com/harveyqing
+  [155]: https://github.com/harveyqing/BearDiary
+  [156]: https://github.com/zhangqifan
+  [157]: https://github.com/zhangqifan/torrid
+  [158]: https://github.com/AmongOthers
+  [159]: https://github.com/AmongOthers/Werewolf
+  [160]: https://github.com/GangsterHyj
+  [161]: https://github.com/GangsterHyj/WeChatResume
+  [162]: https://github.com/leijing7
+  [163]: https://github.com/leijing7/wx-mina-meteor
+  [164]: https://github.com/sinchang
+  [165]: https://github.com/sinchang/weapp-news
+  [166]: https://github.com/simsir-lin
+  [167]: https://github.com/simsir-lin/express-query-weapp
+  [168]: https://github.com/qdsang
+  [169]: https://github.com/qdsang/weapp-niu-shop
+  [170]: https://github.com/sinchang
+  [171]: https://github.com/sinchang/weapp-weather
+  [172]: https://github.com/WYseven
+  [173]: https://github.com/WYseven/weapp-douban-movie
+  [174]: https://github.com/pagnkelly
+  [175]: https://github.com/pagnkelly/wx-snake
