@@ -108,6 +108,8 @@ grammar_cjkRuby: true
    - [sinchang][170] / weapp-weather 微信小程序 - 我的天气 | [项目地址][171]
    - [WYseven][172] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][173]
    - [pagnkelly][174] / wx-snake 微信小程序 - 贪吃蛇 | [项目地址][175]
+ - 10.8
+   - [xuqiang521][176] / Wechat 微信小程序 - Canvas倒计时 | [项目地址][177]
 
 
   [1]: https://github.com/gavinkwoe
@@ -285,3 +287,5 @@ grammar_cjkRuby: true
   [173]: https://github.com/WYseven/weapp-douban-movie
   [174]: https://github.com/pagnkelly
   [175]: https://github.com/pagnkelly/wx-snake
+  [176]: https://github.com/xuqiang521
+  [177]: https://github.com/xuqiang521/Wechat
