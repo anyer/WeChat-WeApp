@@ -60,8 +60,8 @@ grammar_cjkRuby: true
     - [sinchang][46] / weapp-weather 微信小程序 - 我的天气 | [项目地址][47]
     - [WYseven][48] / weapp-douban-movie 微信小程序 - 豆瓣电影 | [项目地址][49]
     - [pagnkelly][50] / wx-snake 微信小程序 - 贪吃蛇 | [项目地址][51]
-- 10.8
-  - [xuqiang521][52] / Wechat 微信小程序  - canvas倒计时 | [项目地址][53]
+  - 10.8
+    - [xuqiang521][52] / Wechat 微信小程序  - canvas倒计时 | [项目地址][53]
 
 
   [1]: WeApp_Resources.md
