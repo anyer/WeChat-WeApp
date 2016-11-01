@@ -44,13 +44,15 @@ CNode：Node.js专业中文社区
    网吧数据是国内专业的API数据调用接口平台，接口丰富、便捷调用，采用xml、json等标准数据返回格式，包括：天气查询接口、快递查询接口、英汉互译接口、域名查询接口、身份证查询接口、手机归属地查询接口、笑话大全等.
    - [天狗云][22]
    狗农业信息服务平台，天狗健康信息个服务平 ，天狗医疗相信服务平台，天狗生活信息服务平台。天狗云以健康、医疗、生活、农业为数据中心提供全方位的数据服务，和开放数据接口，打造一个数据共享平台。
+   - [天行数据][23]
+   天行数据TxAPI微信开发常用API数据集合，在这里您可以免费且轻松的调用这些数据。
     
 
 ----------
 
 - **其他API**
-  - [图灵机器人WebAPI][23] 
-  - [带玩（DaiWan）游戏平台][24]
+  - [图灵机器人WebAPI][24] 
+  - [带玩（DaiWan）游戏平台][25]
     带玩|DaiWan游戏平台专注于电竞数据分析,让玩游戏也可以是正事儿！
     
   
@@ -78,5 +80,6 @@ CNode：Node.js专业中文社区
   [20]: http://www.apix.cn/
   [21]: http://www.zgw8.com/
   [22]: http://www.tngou.net/
-  [23]: http://www.tuling123.com/help/h_cent_webapi.jhtml?nav=doc
-  [24]: http://www.games-cube.com/
+  [23]: http://www.tianapi.com/
+  [24]: http://www.tuling123.com/help/h_cent_webapi.jhtml?nav=doc
+  [25]: http://www.games-cube.com/
