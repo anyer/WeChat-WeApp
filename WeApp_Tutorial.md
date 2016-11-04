@@ -153,7 +153,7 @@ grammar_cjkRuby: true
 
 
 #### **开发视频**
-- [小木学堂][174] - [微信小程序9元实战营（部分免费）][175]
+- [小木学堂][174] - [微信小程序9元实战营（收费）][175]
    - 第一季 | [百度云][176] | [腾讯视频][177] | [CSDN学院][178]
    - 第二季 | [CSDN学院][179]
    - 第三季 | [CSDN学院][180]
@@ -167,27 +167,33 @@ grammar_cjkRuby: true
    - 杨福海 | [『微信小程序』从基础到实战（收费）][192]
 - 慕课吧 [jayjun][193] | [微信小程序开发详解-入门篇 （免费）][194]
 - CSDN学院 
-  - CSDN公开课 | [微信小程序开发秘籍（免费）][195]
-  - [闫涛][196] | [微信小程序实战教程（免费）][197] 
-  - [陈耀武][198] | [微信小程序项目实战（收费）][199]
-  - [袁官东] | [133][零基础小白微信小程序教程 ——天气APP设定（部分免费）][200] | [文章][201]  
-  - [翟东平][202] 
-    - [微信小程序(内测版)科普课程（部分免费）][203]
-    - [微信小程序开发教程(第1篇)（部分免费）][204] 
+  - [CSDN公开课（免费）][195] 
+    - [微信小程序开发秘籍][196]
+    - [九宝老师公开课第4讲：微信小程序开发实战][197]
+  - [闫涛][198] | [微信小程序实战教程（部分免费）][199] 
+  - [陈耀武（部分收费）][200] 
+    -  [微信小程序项目实战][201]
+    -  [小程序资格申请及开发实战][202]
+  - [袁官东] | [133][零基础小白微信小程序教程 ——天气APP设定（收费）][203] | [文章][204]  
+  - [翟东平（收费）][205] 
+    - [微信小程序(内测版)科普课程][206]
+    - [微信小程序开发教程(第1篇)][207] 
+  - [李龙][208] | [微信小程序视频教程（零基础实战培训）][209] 
+  - [李宁][210] | [你不知道的微信小程序][211]
 - 百度传课
-  - [蓝鸥][205] | [微信小程序全方位深度解析（免费）][206]  | [腾讯课堂地址][207]
-  - [爱情课堂][208] | [微信小程序开发（免费）][209]
-  - [达内精品在线TMOOC（免费直播）][210] | [微信小程序开发][211]
-  - [IT技术学校（免费）][212] 
-    - [微信小程序开发实例-记事本][213]
-    - [微信小程序开发实例-翻译助手][214]
-    - [微信小程序开发实例-新闻阅读器][215]
- - [千峰教育][216] | [千锋微信小程序开发视频教程][217]
- - 圆梦云 | [【圆梦云出品】全网首个微信小程序开发视频教程][218]
- - phonegap100 | [微信小程序视频教程][219] | [百度云地址][220]
- - 黑马 | [微信小程序实战开发2天全集（含源码）][221] | [源码、资料][222]
- - [龙果学院][223] | [Web app（微信小程序）（收费）][224]
- - [小码哥社区][225] | [小码哥Android学院王老师，从“零”带你开发“微信小程序”（免费）][226] | [百度传课地址][227]
+  - [蓝鸥][212] | [微信小程序全方位深度解析（免费）][213]  | [腾讯课堂地址][214]
+  - [爱情课堂][215] | [微信小程序开发（免费）][216]
+  - [达内精品在线TMOOC（免费直播）][217] | [微信小程序开发][218]
+  - [IT技术学校（免费）][219] 
+    - [微信小程序开发实例-记事本][220]
+    - [微信小程序开发实例-翻译助手][221]
+    - [微信小程序开发实例-新闻阅读器][222]
+- [千峰教育][223] | [千锋微信小程序开发视频教程][224]
+- 圆梦云 | [【圆梦云出品】全网首个微信小程序开发视频教程][225]
+- phonegap100 | [微信小程序视频教程][226] | [百度云地址][227]
+- 黑马 | [微信小程序实战开发2天全集（含源码）][228] | [源码、资料][229]
+- [龙果学院][230] | [Web app（微信小程序）（收费）][231]
+- [小码哥社区][232] | [小码哥Android学院王老师，从“零”带你开发“微信小程序”（免费）][233] | [百度传课地址][234]
 
 
   [1]: http://blog.csdn.net/xiehuimx
@@ -384,36 +390,43 @@ grammar_cjkRuby: true
   [192]: http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930
   [193]: http://www.moocba.com/user/1
   [194]: http://www.moocba.com/course/70
-  [195]: http://edu.csdn.net/course/detail/3150
-  [196]: http://edu.csdn.net/lecturer/604
-  [197]: http://edu.csdn.net/course/detail/3009
-  [198]: http://edu.csdn.net/lecturer/790
-  [199]: http://edu.csdn.net/course/detail/3019
-  [200]: http://edu.csdn.net/course/detail/3085
-  [201]: http://www.jianshu.com/p/3ec27eb47023
-  [202]: http://edu.csdn.net/lecturer/631
-  [203]: http://edu.csdn.net/course/detail/3110
-  [204]: http://edu.csdn.net/course/detail/3149
-  [205]: http://www.lanou3g.com/
-  [206]: http://www.chuanke.com/v4702151-193232-1107660.html
-  [207]: https://ke.qq.com/course/161221
-  [208]: http://www.chuanke.com/s1862533.html
-  [209]: http://www.chuanke.com/v1862533-193459-1107879.html
-  [210]: http://www.chuanke.com/s5189664.html
-  [211]: http://www.chuanke.com/v5189664-196974-1123876.html
-  [212]: http://www.chuanke.com/s5679931.html
-  [213]: http://www.chuanke.com/v5679931-197541-1134949.html
-  [214]: http://www.chuanke.com/v5679931-197228-1128397.html
-  [215]: http://www.chuanke.com/v5679931-197229-1128892.html
-  [216]: http://www.mobiletrain.org/
-  [217]: https://ke.qq.com/course/161484?from=qqchat&ADUIN=835590862&ADSESSION=1476061248&ADTAG=CLIENT.QQ.5497_.0&ADPUBNO=26621
-  [218]: http://www.howzhi.com/course/15035/
-  [219]: http://www.phonegap100.com/forum.php?mod=viewthread&tid=3795&extra=page%253D1&page=1
-  [220]: http://pan.baidu.com/s/1i5Poqe5
-  [221]: http://bbs.itcast.cn/thread-90819-1-1.html
-  [222]: http://pan.baidu.com/s/1dEXnCBJ
-  [223]: http://www.roncoo.com
-  [224]: http://www.roncoo.com
-  [225]: http://bbs.520it.com/portal.php
-  [226]: http://bbs.520it.com/forum.php?mod=viewthread&tid=2536&highlight=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F
-  [227]: http://www.chuanke.com/v2040981-197486-1133724.html
+  [195]: http://edu.csdn.net/lecturer/601
+  [196]: http://edu.csdn.net/course/detail/3150
+  [197]: http://edu.csdn.net/course/detail/3226
+  [198]: http://edu.csdn.net/lecturer/604
+  [199]: http://edu.csdn.net/course/detail/3009
+  [200]: http://edu.csdn.net/lecturer/790
+  [201]: http://edu.csdn.net/course/detail/3019
+  [202]: http://edu.csdn.net/course/detail/3278
+  [203]: http://edu.csdn.net/course/detail/3085
+  [204]: http://www.jianshu.com/p/3ec27eb47023
+  [205]: http://edu.csdn.net/lecturer/631
+  [206]: http://edu.csdn.net/course/detail/3110
+  [207]: http://edu.csdn.net/course/detail/3149
+  [208]: http://edu.csdn.net/lecturer/1023
+  [209]: http://edu.csdn.net/course/detail/3247
+  [210]: http://edu.csdn.net/lecturer/178
+  [211]: http://edu.csdn.net/course/detail/3022
+  [212]: http://www.lanou3g.com/
+  [213]: http://www.chuanke.com/v4702151-193232-1107660.html
+  [214]: https://ke.qq.com/course/161221
+  [215]: http://www.chuanke.com/s1862533.html
+  [216]: http://www.chuanke.com/v1862533-193459-1107879.html
+  [217]: http://www.chuanke.com/s5189664.html
+  [218]: http://www.chuanke.com/v5189664-196974-1123876.html
+  [219]: http://www.chuanke.com/s5679931.html
+  [220]: http://www.chuanke.com/v5679931-197541-1134949.html
+  [221]: http://www.chuanke.com/v5679931-197228-1128397.html
+  [222]: http://www.chuanke.com/v5679931-197229-1128892.html
+  [223]: http://www.mobiletrain.org/
+  [224]: https://ke.qq.com/course/161484?from=qqchat&ADUIN=835590862&ADSESSION=1476061248&ADTAG=CLIENT.QQ.5497_.0&ADPUBNO=26621
+  [225]: http://www.howzhi.com/course/15035/
+  [226]: http://www.phonegap100.com/forum.php?mod=viewthread&tid=3795&extra=page%253D1&page=1
+  [227]: http://pan.baidu.com/s/1i5Poqe5
+  [228]: http://bbs.itcast.cn/thread-90819-1-1.html
+  [229]: http://pan.baidu.com/s/1dEXnCBJ
+  [230]: http://www.roncoo.com
+  [231]: http://www.roncoo.com
+  [232]: http://bbs.520it.com/portal.php
+  [233]: http://bbs.520it.com/forum.php?mod=viewthread&tid=2536&highlight=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F
+  [234]: http://www.chuanke.com/v2040981-197486-1133724.html
