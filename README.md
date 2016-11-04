@@ -26,7 +26,7 @@ grammar_cjkRuby: true
     - 11.4 更新`1`
   - 其它文档 / **2**
     - 10.23 更新`1`
-- [辅助开发工具&插件][3]
+- [辅助开发工具和插件][3]
   - 骨架、脚手架 / **4 - > 5**
     - 10.31 添加`1`
   - 辅助插件 / **9 -> 11**
@@ -86,7 +86,7 @@ grammar_cjkRuby: true
 
   [1]: WeApp_Resources.md
   [2]: WeApp_Resources.md#%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3
-  [3]: WeApp_Resources.md#%E8%BE%85%E5%8A%A9%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7&%E6%8F%92%E4%BB%B6
+  [3]: WeApp_Resources.md#%E8%BE%85%E5%8A%A9%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%92%8C%E6%8F%92%E4%BB%B6
   [4]: WeApp_Resources.md#%E5%BC%80%E5%8F%91%E7%A4%BE%E5%8C%BA
   [5]: WeApp_Resources.md#%E6%9C%80%E6%96%B0%E7%83%AD%E6%96%87
   [6]: WeApp_Resources.md#%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0
