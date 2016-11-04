@@ -26,7 +26,7 @@ grammar_cjkRuby: true
     - 11.4 更新`1`
   - 其它文档 / **2**
     - 10.23 更新`1`
-- [辅助开发工具/插件][3]
+- [辅助开发工具&插件][3]
   - 骨架、脚手架 / **4 - > 5**
     - 10.31 添加`1`
   - 辅助插件 / **9 -> 11**
@@ -41,7 +41,7 @@ grammar_cjkRuby: true
 - [最新热文][5] / **54 - > 60**
   - 11.1 修改`1`
   - 11.4 添加`6`
- - [开发平台][6] / **1**
+- [开发平台][6] / **1**
    - 10.31 添加`1`
    
 
@@ -49,14 +49,14 @@ grammar_cjkRuby: true
 
 
 #### [开发教程 （WeApp_Tutorial）][7]
-- 环境配置 / **2**
-- 开发文章 / **26 -> 30**
+- [环境配置][8] / **2**
+- [开发文章][9] / **26 -> 30**
   - 10.22 添加`4`
-- 开发系列 / **9 -> 13**
+- [开发系列][10] / **9 -> 13**
   - 10.19 添加`1`
   - 10.22 添加`1` 更新`3`
   - 10.31 添加`2` 更新`1`
-- 开发视频 / **13 -> 18**
+- [开发视频][11] / **13 -> 18**
   - 10.31 添加`3`
   - 11.4 添加`2` 更新`2` 修改`1`
 
@@ -64,7 +64,7 @@ grammar_cjkRuby: true
 ----------
 
 
-#### [开源项目（WeApp_OpenCode）][8]
+#### [开源项目（WeApp_OpenCode）][12]
 - 小程序开源项目 / **212 -> 240**（ps:-17）
   - 11.1 添加`9` 修改`1`
   - 11.4 添加`19`
@@ -73,11 +73,11 @@ grammar_cjkRuby: true
 ----------
 
 
-#### [站点API（WeApp_SiteAPI）][9]
-- 站点API / **6**
-- 数据平台 / **10->11**
+#### [站点API（WeApp_SiteAPI）][13]
+- [站点API][14] / **6**
+- [数据平台][15] / **10->11**
   - 10.31 添加`1`
-- 其他API / **1 -> 2**
+- [其他API][16] / **1 -> 2**
   - 10.22 添加`1`
 
 
@@ -86,10 +86,17 @@ grammar_cjkRuby: true
 
   [1]: WeApp_Resources.md
   [2]: WeApp_Resources.md#%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3
-  [3]: WeApp_Resources.md#%E8%BE%85%E5%8A%A9%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E6%8F%92%E4%BB%B6
+  [3]: WeApp_Resources.md#%E8%BE%85%E5%8A%A9%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7&%E6%8F%92%E4%BB%B6
   [4]: WeApp_Resources.md#%E5%BC%80%E5%8F%91%E7%A4%BE%E5%8C%BA
   [5]: WeApp_Resources.md#%E6%9C%80%E6%96%B0%E7%83%AD%E6%96%87
-  [6]: WeApp_Resources.md#%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0
+  [6]: WeApp_Resources.md#%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0
   [7]: WeApp_Tutorial.md
-  [8]: WeApp_OpenCode.md
-  [9]: WeApp_SiteAPI.md
+  [8]: WeApp_Tutorial.md#%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE
+  [9]: WeApp_Tutorial.md#%E5%BC%80%E5%8F%91%E6%96%87%E7%AB%A0
+  [10]: WeApp_Tutorial.md#%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97
+  [11]: WeApp_Tutorial.md#%E5%BC%80%E5%8F%91%E8%A7%86%E9%A2%91
+  [12]: WeApp_OpenCode.md
+  [13]: WeApp_SiteAPI.md
+  [14]: WeApp_SiteAPI.md#%E7%AB%99%E7%82%B9API
+  [15]: WeApp_SiteAPI.md#%E6%95%B0%E6%8D%AE%E6%8E%A5%E5%8F%A3%E5%B9%B3%E5%8F%B0
+  [16]: WeApp_SiteAPI.md#%E5%85%B6%E4%BB%96API
