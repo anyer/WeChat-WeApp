@@ -61,139 +61,167 @@ grammar_cjkRuby: true
    - 简书 / [Ruter][66] | [微信小程序开发初体验--教你开发小程序][67]
  - 10.17
    - cnblogs / [路上的脚印][68] | [微信小程序--火车票查询][69] | [项目源码][70]
+   - [oopsguy] | [71] [微信小程序之小豆瓣图书][71] | [项目源码][72]
  - 10.19
-   - [Sigularity-Jack X][71] | [野狗与微信小程序结合][72] | [项目源码][73]
+   - [Sigularity-Jack X][73] | [野狗与微信小程序结合][74] | [项目源码][75]
  - 10.20
-   - [Sigularity-Jack X][74] | [记录将微信小程序的API适配到W3C标准][75] | [项目源码][76]
+   - [Sigularity-Jack X][76] | [记录将微信小程序的API适配到W3C标准][77] | [项目源码][78]
+ - 10.24
+   - [oopsguy][79] / [微信小程序之知乎日报][80] | [项目地址][81]
+   - [chuxue2005][82] / [微信小程序实例开发教程之知乎新闻][83]
+ - 10.25
+   - [杰克讯儿][84] | [微信小程序实现购物车页面][85]
+   - [水之念][86] | [一步一步写qq音乐的微信小程序][87] | [项目地址][88]
+ - 11.7
+   - [微信小程序-仿淘宝(附真机测试图)（持续更新中。。。）][89] | [项目地址][90]
+ - 11.8
+   - [微信小程序真机预览体验测试教程][91]
+   - [腾讯DEV CLUB][92] / [Bugly_Tony][93] | [微信小程序“信用卡还款”项目实践][94]
+ - 11.10
+   - [微信小程序联盟][95] / [天下雪][96] | [辅助系列《一》微信小程序脚手架及html转译GUI工具][97]
 
 
 ----------
 
 
 ##### **开发系列**
- - [diycode社区bokajun(博卡君) 名片盒系列][77] 
-   - [第一弹][78] 
-   - [第二弹][79]
-   - [第三弹][80]
-   - [第四弹][81] 
-   - [第五弹][82] 
-   - [第六弹][83] 
-   - [开发问答第一弹][84]
+ - [diycode社区bokajun(博卡君) 名片盒系列][98] 
+   - [第一弹][99] 
+   - [第二弹][100]
+   - [第三弹][101]
+   - [第四弹][102] 
+   - [第五弹][103] 
+   - [第六弹][104] 
+   - [开发问答第一弹][105]
+   - [番外篇][106]
  - 微信公众号phodal - 微信小程序剖析系列 
-   - [「官方示例代码」浅析][85]  
-   - [一：运行机制][86]  
-   - [二：框架原理 - 在桌面浏览器上运行的尝试][87]
-   - [三：运行在Chrome浏览器上][88] 
-   - [四：原生的实时DOM转Virtual DOM][89] 
-   - [如何创建一个兼容「微信小程序」的Web框架：WIN][90]
- - 知乎专栏 | [赵启明][91]
-   - [微信小程序架构分析 (上)][92]
-   - [微信小程序架构分析 (中)][93]
-   - [微信小程序架构分析 (下)][94]
+   - [「官方示例代码」浅析][107]  
+   - [一：运行机制][108]  
+   - [二：框架原理 - 在桌面浏览器上运行的尝试][109]
+   - [三：运行在Chrome浏览器上][110] 
+   - [四：原生的实时DOM转Virtual DOM][111] 
+   - [如何创建一个兼容「微信小程序」的Web框架：WIN][112]
+ - 知乎专栏 | [赵启明][113]
+   - [微信小程序架构分析 (上)][114]
+   - [微信小程序架构分析 (中)][115]
+   - [微信小程序架构分析 (下)][116]
  - CSDN 
-   - [顺子_RTFSC][95] | [微信小程序把玩系列 （1 ~ 41）][96] 
-   - [marttinli][97] 微信小程序开发教程系列 | [破解版IDE 无内测资格也可使用][98] | [组件][99] | [组件开发以及wxss介绍][100] | [checkbox以及js数据配置和事件处理][101]
-   - [dzp_coder][102] | [微信小程序开发系列文][103]
-   - [Coco-LG][104] | [微信小程序系列文][105]
+   - [顺子_RTFSC][117] | [微信小程序把玩系列 （1 ~ 41）][118] 
+   - [marttinli][119] 微信小程序开发教程系列 | [破解版IDE 无内测资格也可使用][120] | [组件][121] | [组件开发以及wxss介绍][122] | [checkbox以及js数据配置和事件处理][123]
+   - [dzp_coder][124] | [微信小程序开发系列文][125]
+   - [Coco-LG][126] | [微信小程序系列文][127]
+   - [jsongo][128] | [微信小程序开发系列文章][129]
  - cnblogs(博客园) 
-   - [疯狂的猫][106] 
-     - [微信小程序入门正确姿势(一)][107]
-     - [微信小程序开发工具使用与设计规范(二)][108]
-     - [微信小程序之生命周期(三)][109]
-     - [微信小程序之触控事件(四)][110]
-     - [微信小程序之数据绑定(五)][111]
+   - [疯狂的猫][130] 
+     - [微信小程序入门正确姿势(一)][131]
+     - [微信小程序开发工具使用与设计规范(二)][132]
+     - [微信小程序之生命周期(三)][133]
+     - [微信小程序之触控事件(四)][134]
+     - [微信小程序之数据绑定(五)][135]
  - segmentfault 
-   - [姜家志][112] | 微信小程序开发系列 | [MINA][113] | [http请求] [114] | [Flex布局][115]
-   - [guyoung][116] 微信小程序开发实战系列 | [使用Underscore.js][117] | [使用Immutable.js][118] | [模块化][119] | [使用UUID、Base64、Chance等][120]
+   - [姜家志][136] | 微信小程序开发系列 | [MINA][137] | [http请求] [138] | [Flex布局][139]
+   - [guyoung][140] 微信小程序开发实战系列 | [使用Underscore.js][141] | [使用Immutable.js][142] | [模块化][143] | [使用UUID、Base64、Chance等][144]
  - oschina  
-   - [秀杰][121] | 微信订阅号 : huangxiujie85
-     - [微信小程序（应用号）开发新闻客户端的实战课程][122] | [项目源码][123]
-     - [微信小程序（应用号）实战课程之记账软件开发][124] | [项目源码][125]
-     - [微信小程序（应用号）零基础课程之加法计算器应用][126] | [项目源码][127]
-     - [使用类eclipse编辑器开发小程序，支持代码高亮与语法自动提示][128]
-     - [微信小程序绘图课程之饼图][129] | [项目源码][130]
-     - [微信小程序开发记账应用实战服务端之用户注册与登录-基于Yii2描述][131]
-     - [微信小程序倒计时组件][132] | [项目源码][133]
-     - [微信小程序TabBar底部栏的使用][134]
-     - [微信小程序下拉筛选菜单WXDropDownMenu组件][135] | [项目源码][136]
-     - [微信小程序LXStepper组件-商品数量加减][137]
-     - [微信小程序复选框组件替代方案——LXCheckboxGroup组件][138]
-     - [微信小程序（应用号）实战课程之记账应用开发（续）][139]
-     - [微信小程序实现购物车页面][140]
-     - [微信小程序下拉筛选菜单WXDropDownMenu组件实现下拉动画][141]
-     - [微信小程序RadioGroup代替方案][142]
-   - [jsongo][143] | [个人blog][144]
-     - 微信小程序开发•系列文章 | [入门][145] | [视图层][146] | [数据层][147] | [websocket][148]
-   - [你要爪子][149] 
-     - [微信小程序-富文本转文本][150]
-     - [微信小程序-参数传递][151]
- - [SwiftCafe][152] | 公众号：swift-cafe | 微信小程序开发进阶 
-   - [不需内测账号，带你体验微信小程序完整开发过程][153]
-   - [生命周期][154]
-   - [数据绑定与模块化][155]
-   - [微天气 - 开发一个完整的微信小程序(上)][156]
-   - [微天气 - 开发一个完整的微信小程序(中)][157]
-   - [微天气 - 开发一个完整的微信小程序(下)][158] | [项目源码][159]
- - [帮客之家][160]
-   - [微信小程序搭建及解决登录失败问题][161]
-   - [微信小程序Demo导入详细介绍][162]
-   - [微信小程序下载工具及调试详解][163]
-   - [微信小程序学习之初探小程序][164]
- - [杜亦舒][165] | 微信公众号：yogoup
-   - [微信小程序开发思路][166]
-   - [微信小程序入门示例][167]
-   - [微信小程序示例 - 视图容器][168]
-   - [微信小程序示例 - 交互组件][169]
- - [allluckly][170] | 微信小程序开发教程系列
-   - [从零开始（1）][171] 
-   - [从零开始（2）][172]
-   - [从零开始（3）][173]
+   - [秀杰][145] | 微信订阅号 : huangxiujie85
+     - [微信小程序（应用号）开发新闻客户端的实战课程][146] | [项目源码][147]
+     - [微信小程序（应用号）实战课程之记账软件开发][148] | [项目源码][149]
+     - [微信小程序（应用号）零基础课程之加法计算器应用][150] | [项目源码][151]
+     - [使用类eclipse编辑器开发小程序，支持代码高亮与语法自动提示][152]
+     - [微信小程序绘图课程之饼图][153] | [项目源码][154]
+     - [微信小程序开发记账应用实战服务端之用户注册与登录-基于Yii2描述][155]
+     - [微信小程序倒计时组件][156] | [项目源码][157]
+     - [微信小程序TabBar底部栏的使用][158]
+     - [微信小程序下拉筛选菜单WXDropDownMenu组件][159] | [项目源码][160]
+     - [微信小程序LXStepper组件-商品数量加减][161]
+     - [微信小程序复选框组件替代方案——LXCheckboxGroup组件][162]
+     - [微信小程序（应用号）实战课程之记账应用开发（续）][163]
+     - [微信小程序实现购物车页面][164]
+     - [微信小程序下拉筛选菜单WXDropDownMenu组件实现下拉动画][165]
+     - [微信小程序RadioGroup代替方案][166]
+   - [jsongo][167] | [个人blog][168]
+     - 微信小程序开发•系列文章 | [入门][169] | [视图层][170] | [数据层][171] | [websocket][172]
+   - [你要爪子][173] 
+     - [微信小程序-富文本转文本][174]
+     - [微信小程序-参数传递][175]
+   - [绿色的小苹果][176] | [微信小程序系列][177]
+     - [微信小程序实例 - 手机号归属地查询][178] | [项目地址][179]
+     - [微信小程序 - 帮你妹][180] | [项目地址][181]
+  - [SwiftCafe][182] | 公众号：swift-cafe | 微信小程序开发进阶 
+   - [不需内测账号，带你体验微信小程序完整开发过程][183]
+   - [生命周期][184]
+   - [数据绑定与模块化][185]
+   - [微天气 - 开发一个完整的微信小程序(上)][186]
+   - [微天气 - 开发一个完整的微信小程序(中)][187]
+   - [微天气 - 开发一个完整的微信小程序(下)][188] | [项目源码][189]
+ - [帮客之家][190]
+   - [微信小程序搭建及解决登录失败问题][191]
+   - [微信小程序Demo导入详细介绍][192]
+   - [微信小程序下载工具及调试详解][193]
+   - [微信小程序学习之初探小程序][194]
+ - [杜亦舒][195] | 微信公众号：yogoup
+   - [微信小程序开发思路][196]
+   - [微信小程序入门示例][197]
+   - [微信小程序示例 - 视图容器][198]
+   - [微信小程序示例 - 交互组件][199]
+ - [allluckly][200] | 微信小程序开发教程系列
+   - [从零开始（1）][201] 
+   - [从零开始（2）][202]
+   - [从零开始（3）][203]
+ -  [有渔（neptunecai）][204] | 有渔微信小程序系列文章 （[原文地址][205]）
+   -  [认识微信小程序与HelloWorld][206]
+   -  [了解.js文件及.json文件][207]
+   -  [view层及小程序框架概述][208]
+   -  [小程序组件][209]
+   -  [Mustache语法要点总结][210]
+   -  [小程序的API][211]
+   -  [实例开发教程][212]
+   -  [小程序开发中应注意的几个问题 ...][213]
 
 ----------
 
 
 #### **开发视频**
-- [小木学堂][174] - [微信小程序9元实战营（收费）][175]
-   - 第一季 | [百度云][176] | [腾讯视频][177] | [CSDN学院][178]
-   - 第二季 | [CSDN学院][179]
-   - 第三季 | [CSDN学院][180]
-- [michaely][181] | [全球首发，微信小程序开发实战视频教程发布（免费）][182]
+- [小木学堂][214] - [微信小程序9元实战营（收费）][215]
+   - 第一季 | [百度云][216] | [腾讯视频][217] | [CSDN学院][218]
+   - 第二季 | [CSDN学院][219]
+   - 第三季 | [CSDN学院][220]
+- [michaely][221] | [全球首发，微信小程序开发实战视频教程发布（免费）][222]
 - 51CTO学院
-  -  [李宁][183] | [你不知道的微信小程序视频课程（免费）][184] | [CSDN学院 （免费）][185]
-  - [小波说雨燕 张云波][186]  | [微信小程序（实战极速版）新手入门视频课程 （部分收费）][187]
-  - [咫尺网络][188] | [Web-App（微信小程序）制作工具教学视频（部分收费）][189]
+  -  [李宁][223] | [你不知道的微信小程序视频课程（免费）][224] | [CSDN学院 （免费）][225]
+  - [小波说雨燕 张云波][226]  | [微信小程序（实战极速版）新手入门视频课程 （部分收费）][227]
+  - [咫尺网络][228] | [Web-App（微信小程序）制作工具教学视频（部分收费）][229]
 - 极客学院 
-   - [腾讯云 - 贺嘉][190] | [如何一小时快速搭建一个应用号（免费）][191]
-   - 杨福海 | [『微信小程序』从基础到实战（收费）][192]
-- 慕课吧 [jayjun][193] | [微信小程序开发详解-入门篇 （免费）][194]
+   - [腾讯云 - 贺嘉][230] | [如何一小时快速搭建一个应用号（免费）][231]
+   - 杨福海 | [『微信小程序』从基础到实战（收费）][232]
+- 慕课吧 [jayjun][233] | [微信小程序开发详解-入门篇 （免费）][234]
 - CSDN学院 
-  - [CSDN公开课（免费）][195] 
-    - [微信小程序开发秘籍][196]
-    - [九宝老师公开课第4讲：微信小程序开发实战][197]
-  - [闫涛][198] | [微信小程序实战教程（部分免费）][199] 
-  - [陈耀武（部分收费）][200] 
-    -  [微信小程序项目实战][201]
-    -  [小程序资格申请及开发实战][202]
-  - [袁官东] | [133][零基础小白微信小程序教程 ——天气APP设定（收费）][203] | [文章][204]  
-  - [翟东平（收费）][205] 
-    - [微信小程序(内测版)科普课程][206]
-    - [微信小程序开发教程(第1篇)][207] 
-  - [李龙][208] | [微信小程序视频教程（零基础实战培训）][209] 
-  - [李宁][210] | [你不知道的微信小程序][211]
+  - [CSDN公开课（免费）][235] 
+    - [微信小程序开发秘籍][236]
+    - [九宝老师公开课第4讲：微信小程序开发实战][237]
+  - [闫涛][238] | [微信小程序实战教程（部分免费）][239] 
+  - [陈耀武（部分收费）][240] 
+    -  [微信小程序项目实战][241]
+    -  [小程序资格申请及开发实战][242]
+  - [袁官东] | [133][零基础小白微信小程序教程 ——天气APP设定（收费）][243] | [文章][244]  
+  - [翟东平（收费）][245] 
+    - [微信小程序(内测版)科普课程][246]
+    - [微信小程序开发教程(第1篇)][247] 
+  - [李龙][248] | [微信小程序视频教程（零基础实战培训）][249] 
+  - [李宁][250] | [你不知道的微信小程序][251]
 - 百度传课
-  - [蓝鸥][212] | [微信小程序全方位深度解析（免费）][213]  | [腾讯课堂地址][214]
-  - [爱情课堂][215] | [微信小程序开发（免费）][216]
-  - [达内精品在线TMOOC（免费直播）][217] | [微信小程序开发][218]
-  - [IT技术学校（免费）][219] 
-    - [微信小程序开发实例-记事本][220]
-    - [微信小程序开发实例-翻译助手][221]
-    - [微信小程序开发实例-新闻阅读器][222]
-- [千峰教育][223] | [千锋微信小程序开发视频教程][224]
-- 圆梦云 | [【圆梦云出品】全网首个微信小程序开发视频教程][225]
-- phonegap100 | [微信小程序视频教程][226] | [百度云地址][227]
-- 黑马 | [微信小程序实战开发2天全集（含源码）][228] | [源码、资料][229]
-- [龙果学院][230] | [Web app（微信小程序）（收费）][231]
-- [小码哥社区][232] | [小码哥Android学院王老师，从“零”带你开发“微信小程序”（免费）][233] | [百度传课地址][234]
+  - [蓝鸥][252] | [微信小程序全方位深度解析（免费）][253]  | [腾讯课堂地址][254]
+  - [爱情课堂][255] | [微信小程序开发（免费）][256]
+  - [达内精品在线TMOOC（免费直播）][257] | [微信小程序开发][258]
+  - [IT技术学校（免费）][259] 
+    - [微信小程序开发实例-记事本][260]
+    - [微信小程序开发实例-翻译助手][261]
+    - [微信小程序开发实例-新闻阅读器][262]
+- [千峰教育][263] | [千锋微信小程序开发视频教程][264]
+- 圆梦云 | [【圆梦云出品】全网首个微信小程序开发视频教程][265]
+- phonegap100 | [微信小程序视频教程][266] | [百度云地址][267]
+- 黑马 | [微信小程序实战开发2天全集（含源码）][268] | [源码、资料][269]
+- [龙果学院][270] | [Web app（微信小程序）（收费）][271]
+- [小码哥社区][272] | [小码哥Android学院王老师，从“零”带你开发“微信小程序”（免费）][273] | [百度传课地址][274]
 
 
   [1]: http://blog.csdn.net/xiehuimx
@@ -266,167 +294,207 @@ grammar_cjkRuby: true
   [68]: http://www.cnblogs.com/tgyf/
   [69]: http://www.cnblogs.com/tgyf/p/5960979.html
   [70]: https://github.com/VincentWYJ/WXAppTrain
-  [71]: http://jack-x.engineer/aboutme/
-  [72]: http://jack-x.engineer/2016/10/19/wilddog-weapp/
-  [73]: https://github.com/WildDogTeam/wilddog-weapp
-  [74]: http://jack-x.engineer/aboutme/
-  [75]: http://jack-x.engineer/2016/10/20/make-weapp-api-w3c/
-  [76]: https://github.com/stackOverMind/WeApp-adapter
-  [77]: http://www.diycode.cc/bokajun/topics
-  [78]: http://www.diycode.cc/topics/311
-  [79]: http://www.diycode.cc/topics/312
-  [80]: http://www.diycode.cc/topics/316
-  [81]: http://www.diycode.cc/topics/325
-  [82]: http://www.diycode.cc/topics/328
-  [83]: http://www.diycode.cc/topics/332
-  [84]: http://www.diycode.cc/topics/329
-  [85]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974082&idx=1&sn=47c7f672caf629cd846e315b8df2b1c5&scene=21#wechat_redirect
-  [86]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974093&idx=1&sn=0570a243304ea8bb7d1b636624886fb1&scene=21#wechat_redirect
-  [87]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974111&idx=1&sn=93a868cdb59b5dd77c65c7a5303e6e31#rd
-  [88]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974133&idx=1&sn=3b67419e8ac0bb8262ca4c1e3cdabb35#rd
-  [89]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974146&idx=1&sn=52041fdca4245e8f4b670ed20efa77de#rd
-  [90]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974149&idx=1&sn=3efe5e6ee479ad6cbddc0a607cd40411#rd
-  [91]: https://www.zhihu.com/people/zhao-qi-ming
-  [92]: https://zhuanlan.zhihu.com/p/22754296
-  [93]: https://zhuanlan.zhihu.com/p/22765476
-  [94]: https://zhuanlan.zhihu.com/p/22932309
-  [95]: http://blog.csdn.net/u014360817
-  [96]: http://blog.csdn.net/u014360817/article/category/6433383
-  [97]: http://my.csdn.net/aa841538513
-  [98]: http://blog.csdn.net/aa841538513/article/details/52635249
-  [99]: http://blog.csdn.net/aa841538513/article/details/52653309
-  [100]: http://blog.csdn.net/aa841538513/article/details/52663266
-  [101]: http://blog.csdn.net/aa841538513/article/details/52668106
-  [102]: http://my.csdn.net/qq_31383345
-  [103]: http://blog.csdn.net/qq_31383345/article/category/6455354
-  [104]: http://my.csdn.net/gang544043963
-  [105]: http://my.csdn.net/gang544043963
-  [106]: https://home.cnblogs.com/u/nosqlcoco/
-  [107]: http://www.cnblogs.com/nosqlcoco/p/5927249.html
-  [108]: http://www.cnblogs.com/nosqlcoco/p/5931952.html
-  [109]: http://www.cnblogs.com/nosqlcoco/p/wxsmallcycle.html
-  [110]: http://www.cnblogs.com/nosqlcoco/p/5954453.html
-  [111]: http://www.cnblogs.com/nosqlcoco/p/5987864.html
-  [112]: https://segmentfault.com/u/jiangjiazhi
-  [113]: https://segmentfault.com/a/1190000007000249
-  [114]: https://segmentfault.com/a/1190000007022502
-  [115]: https://segmentfault.com/a/1190000007022502
-  [116]: https://segmentfault.com/u/guyoung
-  [117]: https://segmentfault.com/a/1190000007009950
-  [118]: https://segmentfault.com/a/1190000007016139
-  [119]: https://segmentfault.com/a/1190000007028276
-  [120]: https://segmentfault.com/a/1190000007086274
-  [121]: https://my.oschina.net/u/1012086/home
-  [122]: https://my.oschina.net/u/1012086/blog/751455
-  [123]: http://git.oschina.net/dotton/news
-  [124]: https://my.oschina.net/u/1012086/blog/753104
-  [125]: http://git.oschina.net/dotton/finance
-  [126]: https://my.oschina.net/u/1012086/blog/754193
-  [127]: http://git.oschina.net/dotton/calc
-  [128]: https://my.oschina.net/huangxiujie/blog/754293
-  [129]: https://my.oschina.net/huangxiujie/blog/754452
-  [130]: http://git.oschina.net/dotton/canvas
-  [131]: https://my.oschina.net/huangxiujie/blog/754653
-  [132]: https://my.oschina.net/huangxiujie/blog/754777
-  [133]: http://git.oschina.net/dotton/CountDown
-  [134]: https://my.oschina.net/huangxiujie/blog/754901
-  [135]: https://my.oschina.net/huangxiujie/blog/755324
-  [136]: http://git.oschina.net/dotton/WXDropDownMenu
-  [137]: https://my.oschina.net/huangxiujie/blog/756538
-  [138]: https://my.oschina.net/huangxiujie/blog/757198
-  [139]: https://my.oschina.net/huangxiujie/blog/757692
-  [140]: https://my.oschina.net/huangxiujie/blog/759693
-  [141]: https://my.oschina.net/huangxiujie/blog/760429
-  [142]: https://my.oschina.net/huangxiujie/blog/768286
-  [143]: https://my.oschina.net/jsongo/blog
-  [144]: http://www.jsongo.com
-  [145]: http://www.jsongo.com/post/js/2016/weapp-1/
-  [146]: http://www.jsongo.com/post/js/2016/weapp-2/
-  [147]: http://www.jsongo.com/post/js/2016/weapp-3/
-  [148]: http://www.jsongo.com/post/js/2016/weapp-7/
-  [149]: https://my.oschina.net/u/265943/home
-  [150]: %E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%AF%8C%E6%96%87%E6%9C%AC%E8%BD%AC%E6%96%87%E6%9C%AC
-  [151]: https://my.oschina.net/u/265943/blog/753556
-  [152]: http://swiftcafe.io
-  [153]: http://swiftcafe.io/2016/09/24/wx-app/
-  [154]: http://swiftcafe.io/2016/09/28/wx-app-2/
-  [155]: http://swiftcafe.io/2016/09/28/wx-app3/
-  [156]: http://swiftcafe.io/2016/10/03/wx-weather-app/
-  [157]: http://swiftcafe.io/2016/10/08/wx-weather-app-2/
-  [158]: http://swiftcafe.io/2016/10/09/wx-weather-app-3/
-  [159]: https://github.com/swiftcafex/wechat-weather
-  [160]: http://www.bkjia.com/
-  [161]: http://www.bkjia.com/xdjq/1162980.html
-  [162]: http://www.bkjia.com/xdjq/1162981.html
-  [163]: http://www.bkjia.com/xdjq/1162979.html
-  [164]: http://www.bkjia.com/xdjq/1162975.html
-  [165]: http://www.weidu8.net/author/yogoup
-  [166]: http://www.weidu8.net/wx/549174
-  [167]: http://www.weidu8.net/wx/576240
-  [168]: http://www.weidu8.net/wx/595296
-  [169]: http://www.weidu8.net/wx/599126
-  [170]: http://allluckly.cn/about/
-  [171]: https://allluckly.cn/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/weixinxiaochengxu
-  [172]: https://allluckly.cn/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/weixinxiaochengxu01
-  [173]: https://allluckly.cn/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/weixinxiaochengxu02
-  [174]: http://www.xiaomuedu.com/
-  [175]: http://edu.csdn.net/agency/index/178
-  [176]: http://pan.baidu.com/s/1jIIzIKI
-  [177]: http://v.qq.com/x/page/o03315osn5v.html
-  [178]: http://edu.csdn.net/course/detail/3011
-  [179]: http://edu.csdn.net/course/detail/3045
-  [180]: http://edu.csdn.net/course/detail/3073
-  [181]: https://my.oschina.net/yangfuhai/home
-  [182]: https://my.oschina.net/yangfuhai/blog/751110
-  [183]: http://edu.51cto.com/lecturer/index/user_id-974126.html
-  [184]: http://edu.51cto.com/course/course_id-7241.html
-  [185]: http://edu.csdn.net/course/detail/3022
-  [186]: http://www.xiaoboswift.com/
-  [187]: http://edu.51cto.com/course/course_id-7242.html
-  [188]: http://www.zhichiwangluo.com/
-  [189]: http://edu.51cto.com/course/course_id-7327.html
-  [190]: http://my.jikexueyuan.com/hejia12/record/
-  [191]: http://www.jikexueyuan.com/course/3081.html
-  [192]: http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930
-  [193]: http://www.moocba.com/user/1
-  [194]: http://www.moocba.com/course/70
-  [195]: http://edu.csdn.net/lecturer/601
-  [196]: http://edu.csdn.net/course/detail/3150
-  [197]: http://edu.csdn.net/course/detail/3226
-  [198]: http://edu.csdn.net/lecturer/604
-  [199]: http://edu.csdn.net/course/detail/3009
-  [200]: http://edu.csdn.net/lecturer/790
-  [201]: http://edu.csdn.net/course/detail/3019
-  [202]: http://edu.csdn.net/course/detail/3278
-  [203]: http://edu.csdn.net/course/detail/3085
-  [204]: http://www.jianshu.com/p/3ec27eb47023
-  [205]: http://edu.csdn.net/lecturer/631
-  [206]: http://edu.csdn.net/course/detail/3110
-  [207]: http://edu.csdn.net/course/detail/3149
-  [208]: http://edu.csdn.net/lecturer/1023
-  [209]: http://edu.csdn.net/course/detail/3247
-  [210]: http://edu.csdn.net/lecturer/178
-  [211]: http://edu.csdn.net/course/detail/3022
-  [212]: http://www.lanou3g.com/
-  [213]: http://www.chuanke.com/v4702151-193232-1107660.html
-  [214]: https://ke.qq.com/course/161221
-  [215]: http://www.chuanke.com/s1862533.html
-  [216]: http://www.chuanke.com/v1862533-193459-1107879.html
-  [217]: http://www.chuanke.com/s5189664.html
-  [218]: http://www.chuanke.com/v5189664-196974-1123876.html
-  [219]: http://www.chuanke.com/s5679931.html
-  [220]: http://www.chuanke.com/v5679931-197541-1134949.html
-  [221]: http://www.chuanke.com/v5679931-197228-1128397.html
-  [222]: http://www.chuanke.com/v5679931-197229-1128892.html
-  [223]: http://www.mobiletrain.org/
-  [224]: https://ke.qq.com/course/161484?from=qqchat&ADUIN=835590862&ADSESSION=1476061248&ADTAG=CLIENT.QQ.5497_.0&ADPUBNO=26621
-  [225]: http://www.howzhi.com/course/15035/
-  [226]: http://www.phonegap100.com/forum.php?mod=viewthread&tid=3795&extra=page%253D1&page=1
-  [227]: http://pan.baidu.com/s/1i5Poqe5
-  [228]: http://bbs.itcast.cn/thread-90819-1-1.html
-  [229]: http://pan.baidu.com/s/1dEXnCBJ
-  [230]: http://www.roncoo.com
-  [231]: http://www.roncoo.com
-  [232]: http://bbs.520it.com/portal.php
-  [233]: http://bbs.520it.com/forum.php?mod=viewthread&tid=2536&highlight=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F
-  [234]: http://www.chuanke.com/v2040981-197486-1133724.html
+  [71]: http://oopsguy.com/2016/10/17/weixin-small-program-doubanbook/
+  [72]: https://github.com/oopsguy/WechatSmallApps/tree/master/DouBanBookApp
+  [73]: http://jack-x.engineer/aboutme/
+  [74]: http://jack-x.engineer/2016/10/19/wilddog-weapp/
+  [75]: https://github.com/WildDogTeam/wilddog-weapp
+  [76]: http://jack-x.engineer/aboutme/
+  [77]: http://jack-x.engineer/2016/10/20/make-weapp-api-w3c/
+  [78]: https://github.com/stackOverMind/WeApp-adapter
+  [79]: http://oopsguy.com
+  [80]: http://oopsguy.com/2016/10/24/wechat-small-program-zhihudaily/
+  [81]: https://github.com/oopsguy/WechatSmallApps/tree/master/ZhiHuDaliy
+  [82]: https://segmentfault.com/u/chuxue2005
+  [83]: https://segmentfault.com/a/1190000007266584
+  [84]: https://my.oschina.net/zhangjie5201314/home
+  [85]: https://my.oschina.net/zhangjie5201314/blog/775502
+  [86]: https://my.oschina.net/shuinian/home
+  [87]: https://my.oschina.net/shuinian/blog/775260
+  [88]: https://git.oschina.net/caosiyuan/qqmusic
+  [89]: https://segmentfault.com/a/1190000007399888
+  [90]: https://github.com/ChangQing666/wechat-weapp-taobao
+  [91]: http://lanchenglv.com/article/2016/1108/wxapp_mobile_phone_test.html
+  [92]: http://dev.qq.com/
+  [93]: http://dev.qq.com/user/115290
+  [94]: http://dev.qq.com/topic/58212d0fa7a7574c4f4cc3c5
+  [95]: http://www.wxapp-union.com/
+  [96]: http://www.wxapp-union.com/home.php?mod=space&uid=2
+  [97]: http://www.wxapp-union.com/portal.php?mod=view&aid=337
+  [98]: http://www.diycode.cc/bokajun/topics
+  [99]: http://www.diycode.cc/topics/311
+  [100]: http://www.diycode.cc/topics/312
+  [101]: http://www.diycode.cc/topics/316
+  [102]: http://www.diycode.cc/topics/325
+  [103]: http://www.diycode.cc/topics/328
+  [104]: http://www.diycode.cc/topics/332
+  [105]: http://www.diycode.cc/topics/329
+  [106]: http://www.diycode.cc/topics/347
+  [107]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974082&idx=1&sn=47c7f672caf629cd846e315b8df2b1c5&scene=21#wechat_redirect
+  [108]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974093&idx=1&sn=0570a243304ea8bb7d1b636624886fb1&scene=21#wechat_redirect
+  [109]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974111&idx=1&sn=93a868cdb59b5dd77c65c7a5303e6e31#rd
+  [110]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974133&idx=1&sn=3b67419e8ac0bb8262ca4c1e3cdabb35#rd
+  [111]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974146&idx=1&sn=52041fdca4245e8f4b670ed20efa77de#rd
+  [112]: http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974149&idx=1&sn=3efe5e6ee479ad6cbddc0a607cd40411#rd
+  [113]: https://www.zhihu.com/people/zhao-qi-ming
+  [114]: https://zhuanlan.zhihu.com/p/22754296
+  [115]: https://zhuanlan.zhihu.com/p/22765476
+  [116]: https://zhuanlan.zhihu.com/p/22932309
+  [117]: http://blog.csdn.net/u014360817
+  [118]: http://blog.csdn.net/u014360817/article/category/6433383
+  [119]: http://my.csdn.net/aa841538513
+  [120]: http://blog.csdn.net/aa841538513/article/details/52635249
+  [121]: http://blog.csdn.net/aa841538513/article/details/52653309
+  [122]: http://blog.csdn.net/aa841538513/article/details/52663266
+  [123]: http://blog.csdn.net/aa841538513/article/details/52668106
+  [124]: http://my.csdn.net/qq_31383345
+  [125]: http://blog.csdn.net/qq_31383345/article/category/6455354
+  [126]: http://my.csdn.net/gang544043963
+  [127]: http://my.csdn.net/gang544043963
+  [128]: http://my.csdn.net/lingyb011
+  [129]: http://blog.csdn.net/lingyb011/article/category/6507963
+  [130]: https://home.cnblogs.com/u/nosqlcoco/
+  [131]: http://www.cnblogs.com/nosqlcoco/p/5927249.html
+  [132]: http://www.cnblogs.com/nosqlcoco/p/5931952.html
+  [133]: http://www.cnblogs.com/nosqlcoco/p/wxsmallcycle.html
+  [134]: http://www.cnblogs.com/nosqlcoco/p/5954453.html
+  [135]: http://www.cnblogs.com/nosqlcoco/p/5987864.html
+  [136]: https://segmentfault.com/u/jiangjiazhi
+  [137]: https://segmentfault.com/a/1190000007000249
+  [138]: https://segmentfault.com/a/1190000007022502
+  [139]: https://segmentfault.com/a/1190000007022502
+  [140]: https://segmentfault.com/u/guyoung
+  [141]: https://segmentfault.com/a/1190000007009950
+  [142]: https://segmentfault.com/a/1190000007016139
+  [143]: https://segmentfault.com/a/1190000007028276
+  [144]: https://segmentfault.com/a/1190000007086274
+  [145]: https://my.oschina.net/u/1012086/home
+  [146]: https://my.oschina.net/u/1012086/blog/751455
+  [147]: http://git.oschina.net/dotton/news
+  [148]: https://my.oschina.net/u/1012086/blog/753104
+  [149]: http://git.oschina.net/dotton/finance
+  [150]: https://my.oschina.net/u/1012086/blog/754193
+  [151]: http://git.oschina.net/dotton/calc
+  [152]: https://my.oschina.net/huangxiujie/blog/754293
+  [153]: https://my.oschina.net/huangxiujie/blog/754452
+  [154]: http://git.oschina.net/dotton/canvas
+  [155]: https://my.oschina.net/huangxiujie/blog/754653
+  [156]: https://my.oschina.net/huangxiujie/blog/754777
+  [157]: http://git.oschina.net/dotton/CountDown
+  [158]: https://my.oschina.net/huangxiujie/blog/754901
+  [159]: https://my.oschina.net/huangxiujie/blog/755324
+  [160]: http://git.oschina.net/dotton/WXDropDownMenu
+  [161]: https://my.oschina.net/huangxiujie/blog/756538
+  [162]: https://my.oschina.net/huangxiujie/blog/757198
+  [163]: https://my.oschina.net/huangxiujie/blog/757692
+  [164]: https://my.oschina.net/huangxiujie/blog/759693
+  [165]: https://my.oschina.net/huangxiujie/blog/760429
+  [166]: https://my.oschina.net/huangxiujie/blog/768286
+  [167]: https://my.oschina.net/jsongo/blog
+  [168]: http://www.jsongo.com
+  [169]: http://www.jsongo.com/post/js/2016/weapp-1/
+  [170]: http://www.jsongo.com/post/js/2016/weapp-2/
+  [171]: http://www.jsongo.com/post/js/2016/weapp-3/
+  [172]: http://www.jsongo.com/post/js/2016/weapp-7/
+  [173]: https://my.oschina.net/u/265943/home
+  [174]: %E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%AF%8C%E6%96%87%E6%9C%AC%E8%BD%AC%E6%96%87%E6%9C%AC
+  [175]: https://my.oschina.net/u/265943/blog/753556
+  [176]: https://my.oschina.net/u/2556780/home
+  [177]: https://my.oschina.net/u/2556780/blog
+  [178]: https://my.oschina.net/u/2556780/blog/775430
+  [179]: https://git.oschina.net/GreenLittleApple/wx_xiaochengxu01.git
+  [180]: https://my.oschina.net/u/2556780/blog/775820
+  [181]: https://git.oschina.net/GreenLittleApple/wx-bangnimei.git
+  [182]: http://swiftcafe.io
+  [183]: http://swiftcafe.io/2016/09/24/wx-app/
+  [184]: http://swiftcafe.io/2016/09/28/wx-app-2/
+  [185]: http://swiftcafe.io/2016/09/28/wx-app3/
+  [186]: http://swiftcafe.io/2016/10/03/wx-weather-app/
+  [187]: http://swiftcafe.io/2016/10/08/wx-weather-app-2/
+  [188]: http://swiftcafe.io/2016/10/09/wx-weather-app-3/
+  [189]: https://github.com/swiftcafex/wechat-weather
+  [190]: http://www.bkjia.com/
+  [191]: http://www.bkjia.com/xdjq/1162980.html
+  [192]: http://www.bkjia.com/xdjq/1162981.html
+  [193]: http://www.bkjia.com/xdjq/1162979.html
+  [194]: http://www.bkjia.com/xdjq/1162975.html
+  [195]: http://www.weidu8.net/author/yogoup
+  [196]: http://www.weidu8.net/wx/549174
+  [197]: http://www.weidu8.net/wx/576240
+  [198]: http://www.weidu8.net/wx/595296
+  [199]: http://www.weidu8.net/wx/599126
+  [200]: http://allluckly.cn/about/
+  [201]: https://allluckly.cn/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/weixinxiaochengxu
+  [202]: https://allluckly.cn/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/weixinxiaochengxu01
+  [203]: https://allluckly.cn/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/weixinxiaochengxu02
+  [204]: http://itsart.blog.51cto.com/
+  [205]: http://itsart.blog.51cto.com/all/1005243/16
+  [206]: http://www.wxapp-union.com/portal.php?mod=view&aid=131
+  [207]: http://www.wxapp-union.com/portal.php?mod=view&aid=132
+  [208]: http://www.wxapp-union.com/portal.php?mod=view&aid=133
+  [209]: http://www.wxapp-union.com/portal.php?mod=view&aid=134
+  [210]: http://www.wxapp-union.com/portal.php?mod=view&aid=135
+  [211]: http://www.wxapp-union.com/portal.php?mod=view&aid=136
+  [212]: http://www.wxapp-union.com/portal.php?mod=view&aid=144
+  [213]: http://www.wxapp-union.com/portal.php?mod=view&aid=163
+  [214]: http://www.xiaomuedu.com/
+  [215]: http://edu.csdn.net/agency/index/178
+  [216]: http://pan.baidu.com/s/1jIIzIKI
+  [217]: http://v.qq.com/x/page/o03315osn5v.html
+  [218]: http://edu.csdn.net/course/detail/3011
+  [219]: http://edu.csdn.net/course/detail/3045
+  [220]: http://edu.csdn.net/course/detail/3073
+  [221]: https://my.oschina.net/yangfuhai/home
+  [222]: https://my.oschina.net/yangfuhai/blog/751110
+  [223]: http://edu.51cto.com/lecturer/index/user_id-974126.html
+  [224]: http://edu.51cto.com/course/course_id-7241.html
+  [225]: http://edu.csdn.net/course/detail/3022
+  [226]: http://www.xiaoboswift.com/
+  [227]: http://edu.51cto.com/course/course_id-7242.html
+  [228]: http://www.zhichiwangluo.com/
+  [229]: http://edu.51cto.com/course/course_id-7327.html
+  [230]: http://my.jikexueyuan.com/hejia12/record/
+  [231]: http://www.jikexueyuan.com/course/3081.html
+  [232]: http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930
+  [233]: http://www.moocba.com/user/1
+  [234]: http://www.moocba.com/course/70
+  [235]: http://edu.csdn.net/lecturer/601
+  [236]: http://edu.csdn.net/course/detail/3150
+  [237]: http://edu.csdn.net/course/detail/3226
+  [238]: http://edu.csdn.net/lecturer/604
+  [239]: http://edu.csdn.net/course/detail/3009
+  [240]: http://edu.csdn.net/lecturer/790
+  [241]: http://edu.csdn.net/course/detail/3019
+  [242]: http://edu.csdn.net/course/detail/3278
+  [243]: http://edu.csdn.net/course/detail/3085
+  [244]: http://www.jianshu.com/p/3ec27eb47023
+  [245]: http://edu.csdn.net/lecturer/631
+  [246]: http://edu.csdn.net/course/detail/3110
+  [247]: http://edu.csdn.net/course/detail/3149
+  [248]: http://edu.csdn.net/lecturer/1023
+  [249]: http://edu.csdn.net/course/detail/3247
+  [250]: http://edu.csdn.net/lecturer/178
+  [251]: http://edu.csdn.net/course/detail/3022
+  [252]: http://www.lanou3g.com/
+  [253]: http://www.chuanke.com/v4702151-193232-1107660.html
+  [254]: https://ke.qq.com/course/161221
+  [255]: http://www.chuanke.com/s1862533.html
+  [256]: http://www.chuanke.com/v1862533-193459-1107879.html
+  [257]: http://www.chuanke.com/s5189664.html
+  [258]: http://www.chuanke.com/v5189664-196974-1123876.html
+  [259]: http://www.chuanke.com/s5679931.html
+  [260]: http://www.chuanke.com/v5679931-197541-1134949.html
+  [261]: http://www.chuanke.com/v5679931-197228-1128397.html
+  [262]: http://www.chuanke.com/v5679931-197229-1128892.html
+  [263]: http://www.mobiletrain.org/
+  [264]: https://ke.qq.com/course/161484?from=qqchat&ADUIN=835590862&ADSESSION=1476061248&ADTAG=CLIENT.QQ.5497_.0&ADPUBNO=26621
+  [265]: http://www.howzhi.com/course/15035/
+  [266]: http://www.phonegap100.com/forum.php?mod=viewthread&tid=3795&extra=page%253D1&page=1
+  [267]: http://pan.baidu.com/s/1i5Poqe5
+  [268]: http://bbs.itcast.cn/thread-90819-1-1.html
+  [269]: http://pan.baidu.com/s/1dEXnCBJ
+  [270]: http://www.roncoo.com
+  [271]: http://www.roncoo.com
+  [272]: http://bbs.520it.com/portal.php
+  [273]: http://bbs.520it.com/forum.php?mod=viewthread&tid=2536&highlight=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F
+  [274]: http://www.chuanke.com/v2040981-197486-1133724.html
