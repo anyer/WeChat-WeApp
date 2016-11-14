@@ -8,7 +8,7 @@ grammar_cjkRuby: true
 
 整理可以用于小程序开发的现有站点、数据接口平台的API~
 
-### **站点API**
+### **站点API** -- 知名站点对外提供的接口API
 
   - [GitHub][1] | [官网API][2]
   GitHub is where people build software. More than 15 million people use GitHub to discover, fork, and contribute to over 38 million projects.
@@ -27,7 +27,7 @@ grammar_cjkRuby: true
 ----------
 
 
-### **数据接口平台**
+### **数据接口平台** -- 数据服务商提供的数据接口API
  
   - [Google APIs][17]
   Google API 控制台，了解、使用、管理google的api。提供了100多种API，包括google map api、google cloud api、google apps api、google+ api、youtube api、AdSense api、Analytics API、Translate API、Web Fonts Developer API等。
@@ -51,16 +51,25 @@ grammar_cjkRuby: true
   狗农业信息服务平台，天狗健康信息个服务平 ，天狗医疗相信服务平台，天狗生活信息服务平台。天狗云以健康、医疗、生活、农业为数据中心提供全方位的数据服务，和开放数据接口，打造一个数据共享平台。
   - [天行数据][27]
   天行数据TxAPI微信开发常用API数据集合，在这里您可以免费且轻松的调用这些数据。
-    
+  - [数据堂][28]
+  数据堂（datatang），国内首家大数据共享、交易平台。数据堂面向各行业提供计算机、医疗、人脸、语音、方言、交通、电商、微博等各类数据资源。数据堂同时提供优质、专业的数据采集与定制服务。
+  - [聚信立][29]
+  聚信立（juxinli.com）是一家互联网大数据公司，致力于让金融机构也能轻松获取互联网数据、驾驭互联网数据。
+  - [数粮][30]
+    打造大数据领域流通平台——大数据交易市场+大数据技术服务市场；覆盖行业： 财经金融、生活社交、地产交通、医药法律、贸易能源、工农环境、文体科教、征信
 
 ----------
 
 
-### **其他API**
+### **其他API** -- 专项的一些API整理
 
-  - [图灵机器人WebAPI][28] 
-  - [带玩（DaiWan）游戏平台][29]
-    带玩|DaiWan游戏平台专注于电竞数据分析,让玩游戏也可以是正事儿！
+  - [图灵机器人WebAPI][31] 
+  - [带玩（DaiWan）游戏平台][32]
+    带玩|DaiWan游戏平台专注于电竞数据分析,让玩游戏也可以是正事儿
+  - [体育大数据SportDt][33]
+    体育大数据力求完整、快速、准确地提供足球即时比分与最新赛程及赛果等赛事相关信息，提供各种体育彩票相关的参考数据，提供赛事资料的全面统计，提供足球完整的球队及球员资料与有关新闻。
+   - [企查查接口平台][34]
+   [企查查][35]-企业版是苏州朗动网络科技有限公司针对企业征信，银行，P2P小贷公司等打造的数据分发平台，主要为移动APP开发者提供原始数据及Api Service。
     
   
 
@@ -92,5 +101,11 @@ grammar_cjkRuby: true
   [25]: http://www.zgw8.com/
   [26]: http://www.tngou.net/
   [27]: http://www.tianapi.com/
-  [28]: http://www.tuling123.com/help/h_cent_webapi.jhtml?nav=doc
-  [29]: http://www.games-cube.com/
+  [28]: http://datatang.com/
+  [29]: https://www.juxinli.com/index.html
+  [30]: http://www.datasl.com/
+  [31]: http://www.tuling123.com/help/h_cent_webapi.jhtml?nav=doc
+  [32]: http://www.games-cube.com/
+  [33]: http://www.sportsdt.com/index.shtml
+  [34]: http://www.yjapi.com/
+  [35]: http://qichacha.com/
